@@ -16,7 +16,9 @@
 
 - Oreskes, N. (2019). WHY TRUST SCIENCE? Perspectives from the History and Philosophy of Science. In *Why Trust Science?* (pp. 15-68): Princeton University Press.
 
--**Suggested reading:** Midtgarden, T. (2020). Peirce's Classification of the Sciences. *Knowledge Organization, 47*(3), 267-278. doi:10.5771/0943-7444-2020-3-267
+**Suggested readings:** 
+
+- Midtgarden, T. (2020). Peirce's Classification of the Sciences. *Knowledge Organization, 47*(3), 267-278. doi:10.5771/0943-7444-2020-3-267
 
 - National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and Replicability in Science.* Washington, DC: The National Academies Press. https://doi.org/10.17226/25303
 
@@ -26,7 +28,9 @@
 - Buehler, N. R. (2020). Outreach in Public, Special, and Academic Libraries. *The Serials Librarian, 79*(1-2), 57-61. doi:10.1080/0361526X.2020.1772174
 
 - Silver, I. D. (2014, 2014 Winter). Outreach activities for librarian liaisons. *Reference & User Services Quarterly, 54*(2), 8+. Retrieved from https://link.gale.com/apps/doc/A408647766/AONE?u=tel_a_utl&sid=AONE&xid=73efba06
-- **Suggested reading:** Weerts, D. J., & Sandmann, L. R. (2010). Community Engagement and Boundary-Spanning Roles at Research Universities. *The Journal of Higher Education, 81*(6), 632-657. Retrieved from http://www.jstor.org/stable/40929570
+
+**Suggested readings:**
+- Weerts, D. J., & Sandmann, L. R. (2010). Community Engagement and Boundary-Spanning Roles at Research Universities. *The Journal of Higher Education, 81*(6), 632-657. Retrieved from http://www.jstor.org/stable/40929570
 
 - Eddy, M. A., & Solomon, D. (2017). Leveraging Librarian Liaison Expertise in a New Consultancy Role. *The Journal of Academic Librarianship, 43*(2), 121-127. doi:https://doi.org/10.1016/j.acalib.2017.01.001
 
@@ -46,7 +50,8 @@
 
 - D’Elia, M.J. (2016). Value Proposition Conversations in Libraries: Facilitator’s Toolkit 1.0, Association of Research Libraries.
 
-- **Suggested readings:** Clement K., A., Carr, S., Johnson, L., Carter, A., Dosch Brianne, R., Kaufman, J., . . . Walker, T. (2018). Reading, writing, and … running? Assessing active space in libraries. *Performance Measurement and Metrics, 19*(3), 166-175. doi:10.1108/PMM-03-2018-0011
+**Suggested readings:** 
+- Clement K., A., Carr, S., Johnson, L., Carter, A., Dosch Brianne, R., Kaufman, J., . . . Walker, T. (2018). Reading, writing, and … running? Assessing active space in libraries. *Performance Measurement and Metrics, 19*(3), 166-175. doi:10.1108/PMM-03-2018-0011
 
 - Vaughan, K.T. (2020). Evaluating the Single Service Point Using the Person-Environment-Occupation Model. *portal: Libraries and the Academy 20*(2), 361-379. doi:10.1353/pla.2020.0018
 
@@ -56,7 +61,8 @@
 
 - Herr, M. (2019). Responding to Research Misconduct: A Primer for LIS Professionals. *Science & Technology Libraries, 38*(3), 272-287. doi:10.1080/0194262X.2019.1644268
 
-- **Suggested readings:** Mayernik, M. S., Davis, L., Kelly, K., Dattore, B., Strand, G., Worley, S. J., & Marlino, M. (2014, 2014//). Research Center Insights into Data Curation Education and Curriculum. Paper presented at the Theory and Practice of Digital Libraries -- TPDL 2013 Selected Workshops, Cham.
+**Suggested readings:** 
+- Mayernik, M. S., Davis, L., Kelly, K., Dattore, B., Strand, G., Worley, S. J., & Marlino, M. (2014, 2014//). Research Center Insights into Data Curation Education and Curriculum. Paper presented at the Theory and Practice of Digital Libraries -- TPDL 2013 Selected Workshops, Cham.
 
 - Budd, J. M., Coble, Z., & Abritis, A. (2016). An investigation of retracted articles in the biomedical literature. *Proceedings of the Association for Information Science & Technology, 53*(1), 1-9. doi:10.1002/pra2.2016.14505301055
 
