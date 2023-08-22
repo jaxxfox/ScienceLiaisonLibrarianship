@@ -57,7 +57,7 @@
 
 
 ### Module 6: Data Librarians and Research Misconduct
-- Federer L. (2018). Defining data librarianship: a survey of competencies, skills, and training. *Journal of the Medical Library Association : JMLA, 106*(3), 294–303. https://doi.org/10.5195/jmla.2018.306Links to an external site.
+- Federer L. (2018). Defining data librarianship: a survey of competencies, skills, and training. *Journal of the Medical Library Association : JMLA, 106*(3), 294–303. https://doi.org/10.5195/jmla.2018.306
 
 - Herr, M. (2019). Responding to Research Misconduct: A Primer for LIS Professionals. *Science & Technology Libraries, 38*(3), 272-287. doi:10.1080/0194262X.2019.1644268
 
