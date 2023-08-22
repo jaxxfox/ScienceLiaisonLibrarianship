@@ -69,7 +69,7 @@
 
 ### Module 7: Research Data Management
 
-- Wittenberg, J., Sackmann, A., & Jaffe, R. (2018). Situating Expertise in Practice: Domain-Based Data Management Training for Liaison Librarians. *The Journal of Academic Librarianship, 44*(3), 323-329. doi:https://doi.org/10.1016/j.acalib.2018.04.004Links to an external site.
+- Wittenberg, J., Sackmann, A., & Jaffe, R. (2018). Situating Expertise in Practice: Domain-Based Data Management Training for Liaison Librarians. *The Journal of Academic Librarianship, 44*(3), 323-329. doi:https://doi.org/10.1016/j.acalib.2018.04.004
 
 - Koltay, T. (2019). Accepted and Emerging Roles of Academic Libraries in Supporting Research 2.0. *The Journal of Academic Librarianship, 45*(2), 75-80. doi:https://doi.org/10.1016/j.acalib.2019.01.001
 
@@ -91,7 +91,7 @@
 
 ### Module 9: Scholarly Communication
 
-- Tennant, J.P., et al (2019). Ten Hot Topics Around Scholarly Publishing. *Publications, 7*(2), 34; https://www.mdpi.com/2304-6775/7/2/34/htmLinks to an external site.
+- Tennant, J.P., et al (2019). Ten Hot Topics Around Scholarly Publishing. *Publications, 7*(2), 34; https://www.mdpi.com/2304-6775/7/2/34/htm
 
 - Ellis, L. (2019). A Turning Point for Scholarly Publishing. *Chronicle of Higher Education* (February 17, 2019). https://www.chronicle.com/interactives/Trend19-OpenAccess-Main?cid=dbLinks to an external site.
 
@@ -106,7 +106,7 @@ https://scholarlykitchen.sspnet.org/2021/01/13/guest-post-evaluating-publishers-
 
 ### Module 10: Domains, disciplines, and data
 
-- Edwards, P., Mayernik, M., Batcheller, A., Bowker, G., & Borgman, C. (2011). Science friction: Data, metadata, and collaboration. *Social Studies of Science, 41*(5), 667-690. Retrieved January 11, 2021, from http://www.jstor.org/stable/41301955Links to an external site.
+- Edwards, P., Mayernik, M., Batcheller, A., Bowker, G., & Borgman, C. (2011). Science friction: Data, metadata, and collaboration. *Social Studies of Science, 41*(5), 667-690. Retrieved January 11, 2021, from http://www.jstor.org/stable/41301955
 
 - Larivière, V., Desrochers, N., Macaluso, B., Mongeon, P., Paul-Hus, A., & Sugimoto, C. R. (2016). Contributorship and division of labor in knowledge production. *Social Studies of Science, 46*(3), 417-435. Retrieved from http://www.jstor.org/stable/26099848
 
