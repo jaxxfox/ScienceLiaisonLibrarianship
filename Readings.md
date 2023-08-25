@@ -6,7 +6,7 @@
 
 - Kranich, N., Lotts, M., Nielsen, J., & Ward, J.H. (2020). Moving from Collecting to Connecting: Articulating, Assessing, and Communicating the Work of Liaison Librarians. *portal: Libraries and the Academy 20*(2), 285-304. doi:10.1353/pla.2020.0015.
 
-- Abrizah, A., Inuwa, S., & Afiqah-Izzati, N. (2016). Systematic Literature Review Informing LIS Professionals on Embedding Librarianship Roles. *The Journal of Academic Librarianship, 42*(6), 636-643. doi:https://doi.org/10.1016/j.acalib.2016.08.010Links to an external site.
+- Abrizah, A., Inuwa, S., & Afiqah-Izzati, N. (2016). Systematic Literature Review Informing LIS Professionals on Embedding Librarianship Roles. *The Journal of Academic Librarianship, 42*(6), 636-643. doi:https://doi.org/10.1016/j.acalib.2016.08.010
 
 - **Suggested reading:** Hurt, P. (1934). "Bridging the Gulf between the College Classroom and the Library." *Library Journal, 59*, 748-51.
 
@@ -93,9 +93,9 @@
 
 - Tennant, J.P., et al (2019). Ten Hot Topics Around Scholarly Publishing. *Publications, 7*(2), 34; https://www.mdpi.com/2304-6775/7/2/34/htm
 
-- Ellis, L. (2019). A Turning Point for Scholarly Publishing. *Chronicle of Higher Education* (February 17, 2019). https://www.chronicle.com/interactives/Trend19-OpenAccess-Main?cid=dbLinks to an external site.
+- Ellis, L. (2019). A Turning Point for Scholarly Publishing. *Chronicle of Higher Education* (February 17, 2019). https://www.chronicle.com/interactives/Trend19-OpenAccess-Main?cid=db
 
-- MacRoberts, M. H., & MacRoberts, B. R. (2018). The mismeasure of science: Citation analysis. *Journal of the Association for Information Science and Technology, 69*(3), 474-482. doi:https://doi.org/10.1002/asi.23970Links to an external site.
+- MacRoberts, M. H., & MacRoberts, B. R. (2018). The mismeasure of science: Citation analysis. *Journal of the Association for Information Science and Technology, 69*(3), 474-482. doi:https://doi.org/10.1002/asi.23970
 
 - The Scholarly Kitchen https://scholarlykitchen.sspnet.org/collection/libraries/
 
@@ -125,7 +125,7 @@ https://scholarlykitchen.sspnet.org/2021/01/13/guest-post-evaluating-publishers-
 
 - **The Message Box Workbook**
 
-https://www.compassscicomm.org/leadership-development/the-message-box/#what-isLinks to 
+https://www.compassscicomm.org/leadership-development/the-message-box/#what-is 
 
 https://www.compassscicomm.org/wp-content/uploads/2020/05/The-Message-Box-Workbook.pdf
 
