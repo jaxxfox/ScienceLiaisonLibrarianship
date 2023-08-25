@@ -1,6 +1,6 @@
 ## Science Liaison Librarianship
 
-[Assignments]() | [Readings]() 
+[Assignments]() | [Readings](Readings.md) 
 
 ### Overview
 
