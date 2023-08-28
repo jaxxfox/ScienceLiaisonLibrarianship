@@ -37,8 +37,6 @@ Choose a library instruction video, tutorial, or module, and evaluate it
 - what is lacking or could have done better?
 - anything you had hoped to see but didn’t? 
 
-
-
 #### Activity 5
 
 *Discussion*
@@ -72,7 +70,7 @@ Choose a library instruction video, tutorial, or module, and evaluate it
 6. To give full attention to this assignment, please produce at least 1,000 words of content.
 
 ### Interview with a Librarian 
-*20% *
+*20%*
 [5 points for each item listed]
 
 - Locate and contact a willing librarian/information professional. For example, someone with a job you would like to have or know more about. This is a hectic time, but I’ve found that most librarians are very willing to help students (and like talking about themselves). This should take 20 minutes of their time.
@@ -90,7 +88,7 @@ Choose a library instruction video, tutorial, or module, and evaluate it
 
 
 
-###Final Project
+### Final Project
 *35%*
 
 Do not ask me what I want your research project to be about. This is an opportunity for you to select a topic that interests you!  A one-page proposal of your paper is due at 11:59PM on Mar. 10th. This proposal is worth 12 points.  The proposal should be written in sentence form (not an outline) and should contain the following:
@@ -108,13 +106,13 @@ To give full attention to the paper, please produce at least 3,000 words of cont
 
 | Rubric | 12 | 8 | 4 | 0 |
 | --- | --- | --- | --- | --- |
-| Purpose | x | x | x | x |
-| Literature Review | x | x | x | x |
-| Critical Analysis of the Research | x | x | x | x |
-| Future Implications for Field | x | x | x | x |
-| References | x | x | x | x |
-| Grammar and Formatting | x | x | x | x |
-| Length of Research Paper | x | x | x | x |
-| Presentation | x | x | x | x |
+| Purpose | The author presents the topic, with a working title, a brief description of the topic you plan to research and also a literature review for consideration (at least 3 sources). | The author presents the topic, with a working title, a brief description of an investigation plan, but fails to include all other required details. | The author presents the topic, with a working title, a brief description of an investigation plan, but fails at least half of the other required details. | Topic of the paper is unclear and does not address all required details. |
+| Literature Review | Sufficient background information and a clear review of the topic and why it is important to librarianship is evident. | Adequate background information and a clear review of the topic and why it is important to librarianship is provided. | The author provides limited background information. | Insufficient or no background information is provided. |
+| Critical Analysis of the Research | Exceptional integration and synthesis of research. Very effectively identifies and discusses implications and common themes relevant to the topic. | Research is integrated and well synthesized. Identifies and discusses some implications and/or themes relevant to the topic. | Very little integration and/or synthesis. Mainly reflects previous research findings, with very little critical analysis of the literature. | Discussion of the research is integrated poorly, with little to no critical analysis of past studies and/or articles.**** |
+| Future Implications for Field | Effectively applies research findings and discusses implications for the future practice of librarianship and/or careers related to the topic. | Adequately discusses implications for the future practice of librarianship and/or careers related to the topic. | Discussion of application to future librarianship practice and/or careers is limited. | Does not discuss implications for future practice of librarianship or careers related to the topic. |
+| References | Author includes at least 15 peer-reviewed articles and correctly cites them according to a consistent citation style of their choosing. | Author includes between 10-14 peer-reviewed articles and cites them according to a consistent citation style of their choosing.  | Author includes fewer than 10 peer-reviewed articles and cites them according to their chosen citation style. | The author includes no peer-reviewed articles and does not cite any sufficient outside research. |
+| Grammar and Formatting | No grammatical, spelling, or punctuation errors, and paper follows a consistent format. | Few grammatical, spelling, or punctuation errors, and format is generally consistent. | More than 10 grammatical, spelling, or punctuation errors, and/or formatting is inconsistent. | More than 15 grammatical, spelling, or punctuation errors, and/or inconsistent formatting detracts from paper’s readability. |
+| Length of Research Paper | Length of final paper meets the assigned 3,000-word minimum | Length of final paper falls slightly below 3,000-word minimum | Length of final paper falls sufficiently below the assigned 3,000-word minimum | Length of final paper is unacceptable |
+| Presentation | Class presentation is around 10 minutes long and clearly presents the main issues of the topic. | Class presentation is around 10 minutes long and fails to cover clearly the issues of the topic. | The presentation goes substantially over or under 10 minutes in length, but covers main issues of the topic | The presentation goes substantially over or under 10 minutes in length and is unclear in covering the main issues of the topic |
 
 **Total: ___ / 90 points**
