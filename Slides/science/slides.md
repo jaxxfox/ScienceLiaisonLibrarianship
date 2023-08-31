@@ -47,6 +47,7 @@ National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibil
 # To be upheld, scientific knowledge needs to have logical and empirical support.
 
 Logical -> Empirical -> Comparison
+
 Theory -> Data Collection -> Data Analysis
 
 ---
