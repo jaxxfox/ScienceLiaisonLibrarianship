@@ -161,6 +161,12 @@ DIAGRAM
 
 ---
 
+# Science Liaison Librarians
+
+- How can librarians help?
+- Transdisciplinary?
+
+---
 
 
 
