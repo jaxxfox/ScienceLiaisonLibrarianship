@@ -310,6 +310,215 @@ Both operate as “wizards” and provide prompts for the user to fill out in or
 ---
 
 # Key Concepts and Definitions
+- **Digital repositories**: An entity providing long-term data storage, typically affiliated with a research institution or university
+- **Persistent Identifier**: A unique reference to a researcher, data set, or other digital object that distinguishes it from all others and typically includes a stable hyperlink to the object may be discovered (e.g., DOI).
+- **Data citation**: A process to that enables the discovery of data and digital objects beyond a digital creator through the creation of a persistent identifier and the ability to reference a data set or other digital object in research publications.
+
+???
+
+1. Australian National Data Service (ANDS), Data Citation Awareness Guide. Accessed May 10, 2012 at http://ands.org.au/guides/data-citation-awareness.html. 
+
+2. National Science Board, Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century, September, 2005. p. 17. http://www.nsf.gov/pubs/2005/nsb0540/ Accessed May 10, 2012.
+
+3. Hakala, J. Persistent identifiers – an overview. Accessed May 10, 2012 at http://metadaten-twr.org/2010/10/13/persistent-identifiers-an-overview/.
+
+---
+
+# Institutional repositories (IRs)
+
+- Institutional repositories are a type of digital repository located and affiliated with one specific institution, typically a university or research institution
+- Other digital repositories may be disciplinary in nature, rather than institutional, as they serve many communities 
+- These data-purposed digital repositories have a focused scope and audience, whereas institutional repositories are typically created with the intent of preserving access to scholarly publications from the institution’s researchers
+
+---
+
+# Figshare (https://figshare.com/)
+
+- Make your data more discoverable and open to all your readers
+- Secure hosting and visualization in the browser of all file types
+- Authors can easily upload files with no concerns about file size or format
+- All data is citable and has a DOI
+
+---
+
+# Dryad Repository (http://datadryad.org)
+
+- Dryad uses DSpace, a free and open source repository software that preserve and access all types of digital content (e.g., text, data, and so forth)
+- Dryad allows scientists to submit data, which may be linked to related publications using that data, and assigns Digital Object Identifiers (DOIs) to enable data citation 
+
+---
+
+# Persistent ID
+
+- a globally unique identifier
+- once assigned, it refers to a single object and is not re-assigned (persistent)
+  * Digital Object Identifier (DOI) is one form, widely used for data
+  * ORCHID iD for researchers
+- foundational to advancing FAIR principles
+- advances data sharing
+- underpin citation of datasets
+- Help to connect people and outputs
+- Help to connect outputs to funding and organizations
+
+---
+
+# What is ORCID?
+
+- **O**pen **R**esearcher and **C**ontributor **Id**entifier
+- ORCID iD is a 16-digit unique identifier
+- Free to register and use your iD
+- Orchid ID captures biographical details
+- ORCID is used around the world by
+  * Publishers
+  * Research organizations
+  * Funders
+
+- orcid.org/register
+
+  ORCID iD screen shot??
+
+  ???
+
+  If you like, add a screenshot of presenter's 16-digit iD
+
+---
+
+Animated diagram??
+
+---
+
+# ORCID iD
+## https://orcid.org/register
+
+- distinguishes you and ensures your research outputs and activities are correctly attributed to you
+- reliably and easily connects you with your contributions and affiliations
+- improves recognition and discoverability for you and your research outputs
+- is interoperable 
+- is persistent
+- Shared names, different versions, transliteration
+
+---
+
+# Problems Arose
+
+- Despite these external pressures to create and follow DMPs, the compliance with these requirements has lagged. For example, one study evaluated 119 DMPs and found that 51% did not identify the individual(s) responsible for data management, which is consistent with prior research findings (Van Loon et al., 2017). 
+- Also, the DMP benefits purported have been assumed, without direct, systematic study (i.e., proof).
+- In fact without evaluation or any follow-up, DMP outcomes cannot be measured to inform best practices and support these assumed benefits.
+- Most researchers do not follow their plans.
+
+---
+
+# Potential Solutions
+
+Ideally, the DMP system used would: 
+- allow for iterative interaction for the purpose of review and updating; 
+- focus on the data collection, processing and analysis methodologies/methods relevant to the specific field of research; 
+- be easily integrated into researcher workflows; and,
+- be scaffolded through DMP training (face-to-face or online) and other associated resources and materials that form part of a DMP system, potentially consisting of:
+  * A training manual/online modules
+  * An institutional storage options chart
+  * A referral map of all research support services across the institution
+  * A DMP self-assessment rubric
+
+---
+
+# Data Management Plan Scorecard
+
+Bradley Wade Bishop[^1], Judit Ungvari[^2],[^3], Hannah Gunderman[^4], Heather Moulaison-Sandy[^5]
+
+[^1]: University of Tennessee, United States of America 
+[^2]: Belmont Forum, Uruguay 
+[^3]: Florida Museum of Natural History, United States of America
+[^4]: Carnegie Mellon University, United States of America 
+[^5]: University of Missouri, United States of America
+
+---
+
+# DMPs Rubrics: Prior Work
+
+- Despite their importance to the research enterprise, no method currently exists to evaluate DMPs (i.e., determining the value of the DMPs and allowing for across-the-board comparison). 
+- Prior work to assess DMPs has been rubrics limited in overall usability, e.g. the Document Assessment and Review Tool (DART) project, which made a rubric to assess NSF DMPs; its exhaustive list of elements to assess and the amount of time the rubric took to use were impediments to adoption (Roland et al., 2015). 
+  * Other rubrics have been developed (e.g., Poole & Garwood, 2020; Van Loon et al., 2017), but included all elements as binary. 
+  * Prior rubrics focused on completeness of DMPs and were not intended to evaluate quality (Carlson, 2017).
+
+ ???
+
+ Data management plans are meant to ensure that your data will be preserved and useful both now and in the future, by both you and other researchers.
+These actions have raised the importance of DMPs from simply being ancillary grant fodder to becoming central mechanisms in advancing science through improved data organization, access, and use. 
+
+---
+
+# Purpose
+
+- The Belmont Forum DMP scorecard addresses the need for a tool to easily evaluate (i.e., score) DMPs, going beyond assessment to evaluate the quality of the DMPs with examples in the rubric to improve quality of the DMP content.
+- This paper presents the development of a DMP scorecard (i.e., DMP evaluation tool) for a large, international funding agency, the Belmont Forum. 
+- A project funded by the Belmont Forum must include collaborators from at least three countries and therefore these projects must consider a number of different policies and strategies at different levels, including ones from funders, nations, and larger governmental bodies (i.e., EU).
+
+???
+
+A DMP is a formal document that outlines what you will do with your data both during and after your research project.  
+Data management plans are meant to ensure that your data will be preserved and useful both now and in the future, by both you and other researchers.
+
+---
+
+# Data and Digital Outputs Management Plan 
+
+- The DDOMP includes Data and Digital Outputs, but is not limited to:
+  * Quantitative and qualitative digital data created during research activities;
+  * All metadata describing the data and digital outputs;
+  * The associated code, software, workflows, and provenance information;  and
+  * Stakeholder-oriented digital outputs such as maps, videos, white papers, and so forth.
+- DDOMP is **required** of all Belmont Forum-funded projects.
+
+---
+
+# DMP Scorecard
+
+- The Belmont Forum provides training materials for applicants and awardees (https://bfe-inf.github.io/toolkit/index.html). 
+- DDOMPs may be refined and expanded as changes occur in any large project. This allows these DMPs to serve as dynamic documentation throughout a project. 
+- The DMP scorecard consists of 14 applicable criteria each on a three point scale (0-2). For example, for data sharing beyond the project team—if a data repository is named, 2 points are earned; however, if language is included that data will be made available, but no data repositories are identified, then that receives a score of 1. 
+
+???
+
+The scorecard goes beyond completeness for evaluating criteria. 
+Anydichotomous assessments (either included or not included) for most DMP criteria allows investigators to lack specificity in details without fully addressing an element. The difference between a 1 and a 2 throughout this scorecard’s criteria is the level of detail.
+
+---
+
+# Scoring
+
+- Once all of the applicable criteria have been reviewed, the scores can be totalled and divided by the number of applicable criteria to produce a average score. 
+- Those scoring higher than an average of 1 provide more detail and those less than 1 should be revised as some required elements are missing and/or incomplete. 
+- For example, if the average over 14 applicable criteria is 0.8, that DDOMP needs more specific responses to address required criteria in the plan.
+
+---
+
+# Current Use
+
+- The scorecard was used by four trained reviewers on all 21 multi-national projects’ DMPs and received an average score of 0.8. Fourteen of the projects’ average scores were below a 1, which indicated several criteria of a quality DDOMP were completely ignored.
+- Following a full-day of training attended by at least one team member from each project and encouraging awardees to complete other modules (https://bfe-inf.github.io/toolkit/index.html) each team was given six weeks to update their DMPs. 
+- All revised DMPs received passing scores with an average of 1.4.
+
+---
+
+# Conclusion
+
+- Given guidelines must be broadly applicable, much of the DMP guidance and assessment remains hard to operationalize for both researchers and evaluators.
+- This scorecard and its subsequent use may lead to improved DMPs simply because it gives some expectations to researchers. The assumption that DMPs are of high quality without evaluation requires further investigation. 
+- The understanding that better data management leads to scientific advancement should appreciate DMPs value enough to evaluate these integral investments.
+
+???
+
+For example, when NSF does not endorse any repositories or provide any examples, then this agnosticism begets imprecise plans.
+In a time where researchers face increasing accountability for their data curation efforts, having a concrete method for scoring the efficacy of DMPs is a useful tool to benchmark quality and expectations.
+
+---
+
+TABLES
+
+---
 
 
 
+
+--
