@@ -28,10 +28,10 @@ No single text is required. Readings for each module will be listed.
 - Module 4: Soft skills and Community
 - Module 5: Ethnography
 - Module 6: Data Librarians and Research Misconduct
-- Module 7: Research Data Management
-- Module 8: Modes and Models of Instruction
-- Module 9: Scholarly Communication
-- Module 10: Domains, disciplines, and data
+- Module 7: Research Misconduct
+- Module 8: Research Data Management
+- Module 9: Modes and Models of Instruction
+- Module 10: Scholarly Communication 
 - Module 11: Organizational Communication
 - Module 12: Collaborative Analysis
 
@@ -39,10 +39,9 @@ No single text is required. Readings for each module will be listed.
 
 | Assignment | Percentage of Final Grade |
 | --- | --- |
-| Summary of a Community | 20% |
-| Interview with a Librarian | 10% |
-| Instructional Video | 20% |
+| Summary of a Community | 25% |
+| Interview with a Librarian | 20% |
 | Participation Activities | 20% |
-| Final Project | 30% |
+| Final Project | 35% |
 | **TOTAL** | 100% |
 
