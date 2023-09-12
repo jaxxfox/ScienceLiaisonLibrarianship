@@ -81,13 +81,8 @@ ADD SPEAKER NOTES?
 
 # Can scientific results become tradition?
 
-IMAGES?
-
----
-
 # How might authority affect your research? 
 
-IMAGES?
 
 ---
 
@@ -103,12 +98,6 @@ IMAGES?
 
 - Inductive – general principles are developed from specific observations. 
 - Deductive – specific expectations are developed on the basis of general principles.
-
----
-
-# Inductive v. Deductive
-
-DIAGRAM
 
 ---
 
