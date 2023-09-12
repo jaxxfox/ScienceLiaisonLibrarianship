@@ -3,7 +3,7 @@
 ### Participation Activities
 *20%*
 
-[6 activities worth 10 pts each]
+[5 activities worth 10 pts each]
 
 It is important to note that class participation is twenty percent of your grade because participation is an important component of facilitating learning in this class. These activities supplement other assignments. They will be described in class lectures and discussed in class meetings.
 
@@ -32,18 +32,12 @@ It is important to note that class participation is twenty percent of your grade
 
 #### Activity 4
 
-Choose a library instruction video, tutorial, or module, and evaluate it
-- what it seemed to do well?
-- what is lacking or could have done better?
-- anything you had hoped to see but didn’t? 
-
-#### Activity 5
-
 *Discussion*
 - In whatever domain/discipline you're most familiar with, please discuss communication channels (both scholarly and everyday life) of that area.
 - In whatever workplace you're most familiar with, please discuss communication norms and modes. What works? What doesn't?
 
-#### Activity 6
+
+#### Activity 5
 
 - Form teams of three and Colab in Colab by copying this notebook and sharing it with each other (1 “expert” per group pls)
 - https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_arbitrary_image_stylization.ipynb
@@ -52,10 +46,6 @@ Choose a library instruction video, tutorial, or module, and evaluate it
 - Save a copy in DRIVE
 - https://github.com/firmai/awesome-google-colab
 - Upload a brief team reflection into Canvas discussion board
-
-
-
-
 
 ### Summary of a Community 
 *25%*
@@ -85,8 +75,6 @@ Choose a library instruction video, tutorial, or module, and evaluate it
 - Write up all that you find in a paper.
 - Please provide a conclusion that highlights what surprised you and what you would like to learn most in the class to prepare you for a job.
 - To give full attention to the paper, please produce at least 1,000 words of content.
-
-
 
 ### Final Project
 *35%*
