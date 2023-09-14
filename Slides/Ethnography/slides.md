@@ -114,7 +114,16 @@ layout: slides
 
 # *RIO Responsibilities and Institutional Overview*
 
-TABLE
+| Responsibilities | Yes | No |
+| ---- | ---- | ---- |
+| Authorship, Publication, and Inventorship |  8 |  4 |
+| Integrity and Information | 12 | 0 |
+| Conflicts of Interest | 5 | 7 |
+| Regulatory Basics for Human and Animal Subjects | 8 | 4 |
+| Human Subject Research and Data | 8 | 4 |
+| Use of Human Biological Materials | 4 | 8 |
+| Societal Responsibility | 6 | 6 |
+
 
 ---
 
@@ -124,12 +133,26 @@ TABLE
 - Three RIOs responded to this question concerning their own digital curation practices. 
 - For example, organization is key to ensuring clean processes and “assuring chain of custody, version control, review status, metadata, flagging of individual documents” (P7) is an expectation for this work.
 
-TABLE? 
+|  Responsible for DMP compliance | # |
+| ---- | ---- |
+| Principle Investigator | 8 |
+| Chief Compliance Officer | 1 |
+| IRB | 1 |
+| Sponsored Programs | 1 |
+| Nobody | 1 |
 
 ---
 
 # Training
 
-TABLE
+|  RCR Training | # |
+| --- | --- |
+| RIO-driven | 3 |
+| Research Office-driven, but not RIO | 3 |
+| Campus-wide RCR group | 3 |
+| RCR course for all graduate students | 1 |
+| General online RCR modules only | 1 |
+| All RCR education done at department level | 1 |
+
 
 ---
