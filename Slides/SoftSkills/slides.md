@@ -1,6 +1,6 @@
 ---
 title: “Soft Skills and Community”
-Update: September 1, 2023
+Update: September 14, 2023
 layout: slides
 
 ---
@@ -34,7 +34,7 @@ layout: slides
 | Disciplined | Experimental | Independent | Immediacy | High Expectations |
 | Workplace Loyalty | Innovators | Free Agents | Confident, Diversity | Apps |
 | Moved to the ‘Burbs | Hard working | Internet, MTV, AIDS | Social Everything | Social Games |
-| Vaccines | Personal computer, Mobile phone | Google, Facebook | Tablent Devices |
+| Vaccines | Personal computer, Mobile phone | Google, Facebook | Tablet Devices |
 
 ---
 
