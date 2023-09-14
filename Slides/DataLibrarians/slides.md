@@ -1,6 +1,6 @@
 ---
 title: “Data Librarians”
-Update: September 1, 2023
+Update: September 14, 2023
 layout: slides
 
 ---
@@ -110,8 +110,15 @@ What (atmospheric) science librarians really do? *2021 AMS Annual Meeting*.
 
 # Background and Experience
 
-Make this a table?
-
+- Even distribution
+  * 6 w/ science undergrad, 6 w/o; 6 w/ MLIS-related, 6 w/o; 3 PhDs
+- Variety of professional certifications
+- Variety of previous experience
+  * Libraries, labs, repositories/DBM
+ - Average years in field – 16
+ - Year range in current job – 2-16
+ - Skills and tasks varied
+  * Mostly OTJ or self-taught
 ---
 
 # Skills and Tasks
