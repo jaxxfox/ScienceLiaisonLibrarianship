@@ -26,7 +26,15 @@ layout: slides
 
 # Generations also have differences
 
-FIGURE
+|  Traditionalists |  Boomers | Gen X | Millennials | Gen 2020 |
+| --- | --- | --- | --- | --- |
+| Born 1900-45 | Born 1946-64 |  Born 1965-76 | Born 1977-97 | Born after 1997 |
+| Great Depression | Vietnam/Moon Landing | Fall of the Berlin Wall | 9/11 Attacks | Age 25 and younger |
+| World War II | Civil/Women’s Rights | Gulf War | Community Service | Optimistic |
+| Disciplined | Experimental | Independent | Immediacy | High Expectations |
+| Workplace Loyalty | Innovators | Free Agents | Confident, Diversity | Apps |
+| Moved to the ‘Burbs | Hard working | Internet, MTV, AIDS | Social Everything | Social Games |
+| Vaccines | Personal computer, Mobile phone | Google, Facebook | Tablent Devices |
 
 ---
 
