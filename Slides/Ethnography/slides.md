@@ -1,6 +1,6 @@
 ---
 title: “Ethnography”
-Update: August 30, 2023
+Update: September 14, 2023
 layout: slides
 
 ---
@@ -112,47 +112,3 @@ layout: slides
 
 ---
 
-# *RIO Responsibilities and Institutional Overview*
-
-| Responsibilities | Yes | No |
-| ---- | ---- | ---- |
-| Authorship, Publication, and Inventorship |  8 |  4 |
-| Integrity and Information | 12 | 0 |
-| Conflicts of Interest | 5 | 7 |
-| Regulatory Basics for Human and Animal Subjects | 8 | 4 |
-| Human Subject Research and Data | 8 | 4 |
-| Use of Human Biological Materials | 4 | 8 |
-| Societal Responsibility | 6 | 6 |
-
-
----
-
-# Data Management Plans
-
-- When asked if they had ever used a DMP in any research misconduct assessment, inquiry, and/or investigative processes, ten RIOs said no. In practice, none used a DMP with one saying they reviewed data and another saying that they would if necessary. 
-- Three RIOs responded to this question concerning their own digital curation practices. 
-- For example, organization is key to ensuring clean processes and “assuring chain of custody, version control, review status, metadata, flagging of individual documents” (P7) is an expectation for this work.
-
-|  Responsible for DMP compliance | # |
-| ---- | ---- |
-| Principle Investigator | 8 |
-| Chief Compliance Officer | 1 |
-| IRB | 1 |
-| Sponsored Programs | 1 |
-| Nobody | 1 |
-
----
-
-# Training
-
-|  RCR Training | # |
-| --- | --- |
-| RIO-driven | 3 |
-| Research Office-driven, but not RIO | 3 |
-| Campus-wide RCR group | 3 |
-| RCR course for all graduate students | 1 |
-| General online RCR modules only | 1 |
-| All RCR education done at department level | 1 |
-
-
----
