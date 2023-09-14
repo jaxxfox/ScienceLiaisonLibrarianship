@@ -27,7 +27,7 @@ No single text is required. Readings for each module will be listed.
 - Module 3: Outreach
 - Module 4: Soft skills and Community
 - Module 5: Ethnography
-- Module 6: Data Librarians and Research Misconduct
+- Module 6: Data Librarians
 - Module 7: Research Misconduct
 - Module 8: Research Data Management
 - Module 9: Modes and Models of Instruction
