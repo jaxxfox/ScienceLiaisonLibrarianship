@@ -1,6 +1,6 @@
 ---
 title: “Scholarly Communication”
-Update: September 5, 2023
+Update: September 14, 2023
 layout: slides
 
 ---
@@ -14,7 +14,17 @@ layout: slides
 
 ---
 
-TABLE
+|   | Research Literature | Popular Literature |
+| --- | ---------- | ------------ |
+| Where | Scholarly journals, Conference proceedings | Magazines, Newspapers |
+| Who | Researchers (w/ name and affiliation);  Expertise in the field | Journalists not always identified; not experts necessarily |
+| Length | Long (5-40 pages) | Short  (<2 pages) |
+| Writing | Technical, abstract, precise; References | Easy, concrete, vague; Typically no references |
+| Audience | Scholarly or professional | General |
+| Review | Peer reviewed; often blind review | Editoral review |
+| Layout | Conservative, Very few advertisements | Varied, colorful, Advertisements |
+
+
 
 ---
 
