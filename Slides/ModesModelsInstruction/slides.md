@@ -1,6 +1,6 @@
 ---
 title: “Modes and Models of Instruction”
-Update: September 5, 2023
+Update: September 14, 2023
 layout: slides
 
 ---
