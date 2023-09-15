@@ -537,6 +537,16 @@ In a time where researchers face increasing accountability for their data curati
 
 ---
 
+| Criteria | Complete Response (score = 2) | Incomplete Response (score = 1) | No Response (score = 0) |
+| ----| ---- | ---- | ---- |
+| 3. Plan describes which member(s) of the team will be responsible for developing, implementing, overseeing, and updating the DDOMP. | The plan indicates by name or role the member(s) responsible for developing, implementing, overseeing, and updating the DDOMP. | The plan indicates that developing, implementing, overseeing, and updating the DDOMP will be done, but in vague qualifiers, or by multiple team members working independently, or done passively. | The plan does not indicate the member(s) or a team role responsible for developing, implementing, overseeing, and updating the DDOMP. |
+|     |  “The data manager (WP4.Task 3 leader) and NAME OMITTED partner will ensure the data management of the project.” “A full-time data manager responsible for overseeing, implementing and updating this data management plan will be hired upon award of funding.” | “Overseeing and updating the data management approach during the project period will be the responsibility of each team’s leader(s) of data collection work in the different WPs. Each leader will be responsible for developing and implementing their respective data management plans.” |    |
+| 4. The plan recognizes describes the security measures to prevent unauthorized access to the data and other digital outputs. | The plan describes security measures for the data and other digital outputs to prevent unauthorized access with specific examples. | The plan describes security measures for the data and other digital outputs to prevent unauthorized access, but in vague terms. | The plan does not describe security measures for the data and other digital outputs to prevent unauthorized access. |
+| Data security refers to the process of protecting data from unauthorized access and data corruption throughout its lifecycle. Data security includes data encryption, tokenization, and key management practices that protect data across all applications and platforms. | "The data security plan includes: i) data input in REDcap or  other secure data management platform; ii) storage within an encrypted drive with access controlled by research team members; and iii) a process for managing human research ethics that complies with national funding body guidelines.” | "Data will be stored on the secure research servers of the team’s respective universities during the project." |    |
+
+---
+
+
 
 
 ---
