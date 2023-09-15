@@ -1,6 +1,6 @@
 ---
 title: “Research Data Management”
-Update: September 5, 2023
+Update: September 15, 2023
 layout: slides
 
 ---
@@ -514,7 +514,15 @@ In a time where researchers face increasing accountability for their data curati
 
 ---
 
-TABLES
+| Criteria | Complete Response (score = 2) | Incomplete Response (score = 1) | No Response (score = 0) |
+| ----| ---- | ---- | ---- |
+|  1.1 Plan lists the types of data and other digital outputs of long-term value. | Datasets and other digital outputs of long-term value are identified, including data type and encoding. | Datasets and other digital outputs of long-term value are identified, but lack detail for users beyond the project to understand. | No information about data types is included. |
+| (e.g. text, databases, images, 3D models, software, audio files, code, video files, reports, surveys, patient records, samples, and so forth) | “Environmental data will be delivered as NetCDF (Network Common Data Format) files. Raster files will use the raster2pgsql PostGIS module. Maps and other geographic data will use shapefiles.” | "A combination of geo-referenced data at various spatial, temporal, and taxonomic scales (e.g., populations, regions, nations, circumpolar, biomes, habitats) will comprise our data of long-term value.” |     |
+| 1.2 Plan describes how the data and other digital outputs will be collected, captured, or created. | Clearly defines how data will be collected, captured or created, including methods, instruments, software, or infrastructure where relevant. | Missing some details regarding how some of the data will be produced; makes assumptions about reviewer knowledge of methods or practices. | No information about data collection, capture or creation. |
+| (e.g., new observations, results from models, reuse of other data, or other | “Socio-economic data will include household food security, nutrition, and demographic data. Spatial data produced will include ground-truthed land use/land cover data ~3 km from 50 farms, land use scenario maps for 12 villages and 4 regions. All ecological/social data will be recorded on physical datasheets and entered directly into Excel or STATA.” | “Models will produce a broad range of output simulation data.” “Data collection includes gathering in-the-field various phytoplankton, zooplankton, fish and flooded forest biodiversity.” |    
+| 1.3 Plan lists (quantifies) how much data is anticipated.| Datasets and other digital outputs volume estimated. | Datasets and other digital outputs amount is vaguely estimated or partially described. | Amount of expected data is not mentioned. |
+|    |  "The project is expected to produce up to 9 GB of new data." | "A new database will be made." |   |  
+
 
 ---
 
