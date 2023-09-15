@@ -526,7 +526,17 @@ In a time where researchers face increasing accountability for their data curati
 
 ---
 
+| Criteria | Complete Response (score = 2) | Incomplete Response (score = 1) | No Response (score = 0) |
+| ----| ---- | ---- | ---- |
+| 2.1. Plan specifically addresses metadata standards or formats for the data and other digital objects. | The metadata standard or format is named for the datasets and other digital outputs. | The metadata standard or format is not named for the datasets or digital outputs, but metadata is mentioned. | The metadata standards or formats is not named. |
+| (e.g., Dublin Core, Ecological Metadata Language (EML), W3C RDF (Resource Description Framework), and so on) | “Data representation will be guided by FAIR principles regarding metadata (e.g. following ISO 19115:1 for geographic information)." “Data from the project will have descriptive metadata according the DataCite Metadata scheme 4.0. ” | "Deliverables from the project will have key-words and appropriate metadata to maximize discoverability." “Deposited data will be accompanied by a range of metadata, such as geographical coordinates, dates, taxonomic information and information on publications and authors.” |   |
+| 2.2 Plan describes when data and other digital outputs will be made available outside and within the project team. | The plan defines when the data and other digital outputs will be made available outside and within the project team. | The plan provides only a vague timeframe for when the data and other digital outputs will be made available outside and within the project team. | The plan does not estimate when the data and other digital outputs will be made available outside and within the project team. | 
+|    | "Data generated from our research will be shared incrementally throughout the time period of the project, and the full dataset will be available no later than one year after the project ends or at publication of our research." | “It will be the policy of the project to publish relevant findings expeditiously in the peer-reviewed literature.” |   |
+| 2.3 Plan describes how data and other digital outputs will be made available beyond the project team. | The data repository is named. | The data repository is not named, but some language exists to indicate that the data will be made available. | Does not provide information on how the data  and other digital outputs will be made available. |
+| (e.g., this may include a domain or institutional repositories) | "The data that accompany publications or other published deliverables will be made available by using an online repository for ecological data (e.g. DRYAD, http://datadryad.org/)." | ”The non-sensitive data collected as part of this project will be made available upon reasonable written request for academic, research, educational and other not-for-profit professional purposes (e.g. conservation, environmental policy) according to the DMP.” |    |
+
+---
 
 
 
---
+---
