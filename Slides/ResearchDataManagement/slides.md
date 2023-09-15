@@ -546,6 +546,16 @@ In a time where researchers face increasing accountability for their data curati
 
 ---
 
+| Criteria | Complete Response (score = 2) | Incomplete Response (score = 1) | No Response (score = 0) |
+| ----| ---- | ---- | ---- |
+| 5.1 Plan indicates how long the data and other digital outputs will be retained | The plan indicates the specific timeframe for how long the data and other digital outputs will be retained. | The plan indicates how long the data and other digital outputs will be retained, with a **vague** time, including *in perpetuity*. | The plan does not indicate how long the data and other digital outputs will be retained. | 
+|      | "These data will be stored for at least 10 years after the project has ended using the institutional infrastructure of (named partner).” “At publication of results, all data will be stored in a trustworthy and/or certified repository; after 5 years, data will be archived for permanent storage in the repository.”. | "This archive will be kept for at least several years (with the intention of making these available for a longer time)." |    |
+| 5.2 Plan indicates who will be responsible for managing data after the project ends to ensure their long-term accessibility. | The plan indicates who or what entity will be responsible for managing after the project ends. | The plan indicates management of the data and digital outputs after the project ends, but in vague qualifiers. | The plan does not indicate management of the data and digital outputs after the project ends. |
+|  | “The  Data Manager, responsible for developing, implementing and updating the Data Management Plan, will ensure data are archived for permanent storage in a certified repository after publication of our research.” | “Project leads from each country will be responsible for ensuring long-term access to data from their country.” |    |
+
+---
+
+
 
 
 
