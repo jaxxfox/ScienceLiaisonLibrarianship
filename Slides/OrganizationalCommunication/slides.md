@@ -1,6 +1,6 @@
 ---
 title: “Organizational Communication"
-Update: September 5, 2023
+Update: September 29, 2023
 layout: slides
 
 ---
@@ -100,10 +100,22 @@ layout: slides
 
 ---
 
-IMAGE
+![Image Credit: COMPASS Science Communication](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/COMPASSScienceCommunicationtemplate.jpg?raw=true)
+
+Image Credit: COMPASS Science Communication
 
 ---
 
-IMAGE
+![Image Credit: Wade Bishop using COMPASS Science Communication model](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Bishopexample1.jpg?raw=true)
+
+Image Credit: Wade Bishop using COMPASS Science Communication model
+
+---
+
+![Image Credit: Wade Bishop using COMPASS Science Communication model](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Bishopexample2.jpg?raw=true)
+
+Image Credit: Wade Bishop using COMPASS Science Communication model
+
+---
 
 ---
