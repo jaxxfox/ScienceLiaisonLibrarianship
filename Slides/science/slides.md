@@ -25,6 +25,8 @@ layout: slides
 - Locate a definition of science from any source (have fun)
 - What does science do for you?
 
+![Gerd Altman from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/sciencemeans1ImagebyGerdAltmannfromPixabay.jpg?raw=true)
+
 ---
 
 # Test relentlessly?
