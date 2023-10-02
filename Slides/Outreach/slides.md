@@ -34,6 +34,8 @@ layout: slides
 
 Some trends in academic librarianship, include library budget cuts, reduced purchasing power, the availability of electronic resources, and the decreasing need to visit the library or consult a subject specialist, have increased the sense of urgency to foster new service roles based on an outreach-centered paradigm.
 
+![Michal Jarmoluk from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/emptylibraryImagebyMichalJarmolukfromPixabay.jpg?raw=true) ![Mohamed Hassan from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/budgetcutImagebyMohamedHassanfromPixabay.jpg?raw=true)
+
 ---
 
 # Outreach
@@ -47,7 +49,7 @@ Some trends in academic librarianship, include library budget cuts, reduced purc
 - representing user needs to library decision-makers 
 - increasing collaboration and partnerships with faculty
 
-FIGURE?
+![Wade Bishop](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/communitydiagram.jpg?raw=true)
 
 ---
 
@@ -150,6 +152,8 @@ FIGURE
 - What are your thought overall on open access journals?
 - What other consulting may occur in information agency settings?
 - What new roles can you imagine may emerge?
+
+![Clker-Free-Vector-Images from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/openbookImagebyClkerFreeVectorImagesfromPixabay.png?raw=true) ![Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/sciencemeans1ImagebyGerdAltmannfromPixabay.jpg?raw=true)
 
 ---
 
