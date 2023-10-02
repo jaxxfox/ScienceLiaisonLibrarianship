@@ -1,6 +1,6 @@
 ---
 title: “Ethnography”
-Update: September 14, 2023
+Update: October 2, 2023
 layout: slides
 
 ---
@@ -20,6 +20,8 @@ layout: slides
 - What wasn’t?
 - Any funny stories?
 
+![Tumisu from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewclipartImagebyTumisufromPixabay.png?raw=true) ![CHÂUVIỄN from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/talkingamongbooksImagebyCH%C3%82UVI%E1%BB%84NfromPixabay.jpg?raw=true)
+
 ---
 
 # Qualitative researchers are professional strangers
@@ -28,6 +30,8 @@ layout: slides
 - *in vivo* –in the living of them.
 - Participant Observer
 - Taking notes, understanding actors
+
+![Pexels from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewImagebyPexelsfromPixabay.jpg?raw=true) ![Sofia Terzoni from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/crowdImagebySofiaTerzonifromPixabay.jpg?raw=true)
 
 ---
 
@@ -49,12 +53,14 @@ layout: slides
 
 ---
 
-# Other Matters
+# *Other* Matters
 
 - Self: identify and differentiate
   * race/ethnicity, gender, social class/socioeconomic status, sexual orientation, (dis)abilities, and religion/religious beliefs
 - Group (in-group; out-group): own terms, customs
 - Community: apart or part
+
+![Amir Arabshahi from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/IndividualincrowdImagebyAmirArabshahifromPixabay.jpg?raw=true) ![Mircea All in collections from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/prideImagebyMirceaAllincollectionsfromPixabay.jpg?raw=true)
 
 ---
 
