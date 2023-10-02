@@ -25,13 +25,15 @@ layout: slides
 - Locate a definition of science from any source (have fun)
 - What does science do for you?
 
-![Gerd Altman from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/sciencemeans1ImagebyGerdAltmannfromPixabay.jpg?raw=true)
+![Gerd Altman from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/sciencemeans1ImagebyGerdAltmannfromPixabay.jpg?raw=true) ![Gerd Altman from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/sciencemeans2ImagebyGerdAltmannfromPixabay.jpg?raw=true) !
 
 ---
 
 # Test relentlessly?
 
-“Blind faith, no matter how passionately expressed, will not suffice. Science for its part will test relentlessly every assumption about the human condition” E. O. Wilson
+“Blind faith, no matter how passionately expressed, will not suffice. Science for its part will test relentlessly every assumption about the human condition” -E. O. Wilson
+
+![Open-Clipart-Vectors from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/antImagebyOpenClipartVectorsfromPixabay.png?raw=true)
 
 ---
 
@@ -61,6 +63,8 @@ Theory -> Data Collection -> Data Analysis
 - Selective observation
 - Illogical reasoning
 
+![Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/WrongwaysignImagebyGerdAltmannfromPixabay.jpg?raw=true)
+
 ADD SPEAKER NOTES?
 
 ---
@@ -70,6 +74,16 @@ ADD SPEAKER NOTES?
 - Tradition
 - Authority
 
+![Clker Free Vector Images from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/traditionImagebyClkerFreeVectorImagesfromPixabay.png?raw=true) ![Arek Socha from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/authorityImagebyArekSochafromPixabay.jpg?raw=true)
+
+---
+
+
+# Can scientific results become tradition?
+
+# How might authority affect your research? 
+
+
 ---
 
 # Tradition can be way wrong
@@ -77,14 +91,9 @@ ADD SPEAKER NOTES?
 - Simple, not necessarily flat, and Jerusalem in the center
 - Strabo – Climata zones
 
+![Vicki Nunn from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/flatearthImagebyVickiNunnfromPixabay.jpg?raw=true)
+
   ADD SPEAKER NOTES
-
----
-
-# Can scientific results become tradition?
-
-# How might authority affect your research? 
-
 
 ---
 
