@@ -1,6 +1,6 @@
 ---
 title: “Scholarly Communication”
-Update: September 14, 2023
+Update: October 2, 2023
 layout: slides
 
 ---
@@ -61,12 +61,7 @@ layout: slides
 - Indexed journals
 - Invented basic metrics
 - Impact factor
-
----
-
-# Proposed that who cites who and what is one way to analyze science
-
-(Article?)
+- Proposed that who cites who and what is one way to analyze science
 
 ---
 
@@ -101,7 +96,7 @@ http://cluster.cis.drexel.edu/~cchen/citespace/
 
 ---
 
-IMAGE??
+![Wade Bishop using Cite Space](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/WadeBishopusingCiteSpace.jpg?raw=true)
 
 ---
 
