@@ -1,6 +1,6 @@
 ---
 title: “Modes and Models of Instruction”
-Update: September 14, 2023
+Update: October 2, 2023
 layout: slides
 
 ---
@@ -26,6 +26,8 @@ layout: slides
 - Tree octopus species, including the endangered Pacific Northwest Tree Octopus, are some of the most elusive creatures known to Man. Not many researchers have managed to photograph them in the wild and those few in captivity tend to hide in inaccessible corners of their cages.
 - https://zapatopi.net/treeoctopus/sightings.html
 
+![Open Clipart Vectors from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/octopusImagebyOpenClipartVectorsfromPixabay.png?raw=true) ![Open Clipart Vectors from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/treeImagebyOpenClipartVectorsfromPixabay.png?raw=true)
+
 ---
 
 # Infomawhatamacy?
@@ -47,11 +49,20 @@ layout: slides
 
 - **Information literacy** is a set of abilities enabling individuals to ‘recognize when information is needed and have the ability to locate, evaluate, and use effectively the needed information.”
 
+![Arek Socha from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/questionmarkImagebyArekSochafromPixabay.jpg?raw=true) ![Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/searchImagebyGerdAltmannfromPixabay.jpg?raw=true)
+
 ---
 
 # In a nutshell, an Information Literate person knows how to…
 
-DIAGRAM?
+- Determine the information need
+- Access information
+- Evaluate sources
+- Incorporate into knowledge base
+- Use information effectively
+- Understand legal & ethical issues
+
+Information literacy can be defined as a process of attaining knowledge
 
 ---
 
@@ -84,16 +95,5 @@ DIAGRAM?
 - Developing multiple appropriate strategies
 
 ---
-
-|   | Research Literature | Popular Literature |
-| --- | ---------- | ------------ |
-| Where | Scholarly journals, Conference proceedings | Magazines, Newspapers |
-| Who | Researchers (w/ name and affiliation);  Expertise in the field | Journalists not always identified; not experts necessarily |
-| Length | Long (5-40 pages) | Short  (<2 pages) |
-| Writing | Technical, abstract, precise; References | Easy, concrete, vague; Typically no references |
-| Audience | Scholarly or professional | General |
-| Review | Peer reviewed; often blind review | Editoral review |
-| Layout | Conservative, Very few advertisements | Varied, colorful, Advertisements |
-
 
 ---
