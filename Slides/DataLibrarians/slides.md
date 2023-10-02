@@ -91,11 +91,8 @@ Bishop, B. W. & Hank, C. F. (2018). Earth Science Data Management: Mapping Actua
 - Interviews were recorded, transcribed, and coded in NVivo. 
 - Emphasis was placed in identifying themes relating to the DCC model’s sequential lifecycle actions.
 
-  ---
-
-What is this?
-
 ---
+
 
 # Job Analysis – Earth science librarians & data managers
 
