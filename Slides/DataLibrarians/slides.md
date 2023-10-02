@@ -213,10 +213,6 @@ GRAPH?
 
 ---
 
-How do I represent this slide?
-
----
-
 # Survey validation
 
 - The survey validation approach has been used by a variety of other professions such as teaching, nursing, and law to inform curricula with empirical data from actual practice. 
