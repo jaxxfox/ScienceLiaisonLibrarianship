@@ -1,6 +1,6 @@
 ---
 title: “Science, Scientists, & Scientific Information”
-Update: August 30, 2023
+Update: October 1, 2023
 layout: slides
 
 ---
@@ -165,6 +165,8 @@ ADD SPEAKER NOTES?
 
 - How can librarians help?
 - Transdisciplinary?
+
+![Open Clipart Vectors from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/chemistryOpenClipartVectorsfromPixabay.png?raw=true) ![Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/orionnebulaGerdAltmannfromPixabay.jpg?raw=true) ![Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/physicsImagebyGerdAltmannfromPixabay.jpg?raw=true) ![Jze Mikulcik from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/leavesImagebyJozefMikulcikfromPixabay.png?raw=true) ![Robert Jones from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/UnderstandscienceImagebyRobertJonesfromPixabay.jpg?raw=true)
 
 ---
 
