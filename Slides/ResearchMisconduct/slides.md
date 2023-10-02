@@ -1,6 +1,6 @@
 ---
 title: “Research Misconduct”
-Update: September 14, 2023
+Update: October 2, 2023
 layout: slides
 
 ---
@@ -227,6 +227,8 @@ Background
 - Quantitative performance metrics (e.g., publications, patents, research dollars, doc students) give researcher “perverse incentives” to compromise integrity.
 - Plagiarism detection software (iThenticate) and image manipulation detection exits.
 - What can librarians do?
+
+![Tumi from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/rightImagebyTumisufromPixabay.jpg?raw=true) ![Evanelos Evangelou from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/plagiarismImagebyEvangelosEvangeloufromPixabay.png?raw=true)
 
 ---
 
