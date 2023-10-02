@@ -1,6 +1,6 @@
 ---
 title: “Data Librarians”
-Update: September 14, 2023
+Update: October 2, 2023
 layout: slides
 
 ---
@@ -22,6 +22,8 @@ layout: slides
 - Does this might be a domain, discipline, organization, profession, or other group need librarians?
 - What are some roles librarians may serve?
 
+![Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/CommunityImagebyGerdAltmannfromPixabay.jpg?raw=true)
+
 ---
 
 # Data librarians
@@ -40,7 +42,10 @@ layout: slides
 
 ---
 
-FIGURE
+![Mayernik et al](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/DataCuration.jpg?raw=true)
+
+Mayernik, M.S., Davis, L., Kelly, K., Dattore, B., Strand, G., Worley, S., & Marlino, M. (2014). Research center insights into data curation education and curriculum. In Ł. Bolikowski, V. Casarosa, P. Goodale, N. Houssos, P. Manghi, & J. Schirrwagen (Eds.), Theory and Practice of Digital Libraries -- TPDL 2013 Selected Workshops (Vol. 416, pp. 239–248). Springer International Publishing.
+
 
 ---
 
@@ -224,26 +229,6 @@ How do I represent this slide?
 INSERT SLIDE NOTES
 
 ---
-
-# What (Atmospheric/Earth) Science Librarians Really Do? 
-24th Conference of Atmospheric Science Librarians International
-10.5
-Ashley Marie Orehek, School of Information Sciences, University of Tennessee
-Co-Authors: Bradley Wade Bishop and Hannah R. Collier, University of Tennessee
-Thursday, 14 January 2021, 11:00 AM – 11:05 AM
-
-- 14 interviews with current science data managers and librarians
-- Key skills: 
-  * Communication, Collaboration
-  * Outreach, Teaching & Research
-  * Data-specific skills
-- Job titles are meaningless – rapidly evolving fields
-- Varied educational backgrounds
-- Research data management gaps in domain-science curriculum
-
----
-
-How do I insert this long text?
 
 ---
 
