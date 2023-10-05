@@ -360,7 +360,7 @@ Abrizah, A., Inuwa, S., & Afiqah-Izzati, N. (2016). Systematic Literature Review
 
 ---
 
-FIGURE
+![Image by Jaxx Fox](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Peerreviewprocess.jpg?raw=true)
 
 ---
 
