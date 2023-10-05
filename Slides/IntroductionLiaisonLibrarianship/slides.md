@@ -1,6 +1,6 @@
 ---
 title: “Introduction- Liaison Librarianship”
-Update: August 30, 2023
+Update: October 5, 2023
 layout: slides
 
 ---
@@ -154,10 +154,6 @@ Follow the rubric!
 
 ---
 
-# BREAK? Questions?
-
----
-
 # What is Science Liaison Librarianship?
 
 “We performed literature searches using the concepts “role*” and “information professional*” and “role*” and “archivist*” in the Library and Information Science Abstracts (LISA) database. LISA contains the most documents related to library science specializations. Along with concepts related to types of centre (“school librarian”, “academic librarian”, “hospital librarian” and “public librarian”), several other roles appear in a large number of documents, including but not limited to “reference librarian” (n = 1659), “librarian as teacher” (n = 285), “subject librarian” (n = 277), “embedded/blended librarian” (n = 248), “liaison librarian” (n = 162) and “digital librarian” (n = 83). ”
@@ -171,6 +167,8 @@ González-Alcaide, G., & Poveda-Pastor, I. (2018). Emerging roles in Library and
   * What is liaison librarianship?
   * What is science? (Next class meeting)
 - The first is what we are dealing with now
+
+![Image by Ivan Pais from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/informationImagebyIvanPaisfromPixabay.jpg?raw=true) ![Image by Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/sciencemeans2ImagebyGerdAltmannfromPixabay.jpg?raw=true)
 
 ---
 
@@ -386,6 +384,8 @@ FIGURE
 
 - Interview with a Librarian
 - Summary of a Community short paper and presentation
+
+![Image by Tumisu from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/InterviewImagebyTumisufromPixabay.jpg?raw=true) ![Image by Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/CommunityImagebyGerdAltmannfromPixabay.jpg?raw=true)
 
 ---
 
