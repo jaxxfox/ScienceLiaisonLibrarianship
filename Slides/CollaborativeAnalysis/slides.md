@@ -27,18 +27,12 @@ layout: slides
 
 # Slack
 
-Channels
-- #avengers
-- #newyork_team
-  * #timestone
-  * #mindstone
-  * #spacestone
-- #asgard_team
-  * #realitystone
-- #morag_team
-  * #powerstone
-- #vomir_team
-  * #soulstone
+- Instant messaging service
+- “Freemium”- free version available, paid version with more features
+- Used as community platform
+- Channels
+
+![Slack logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/SlackIcon.jpg?raw=true)
 
 ---
 
@@ -49,12 +43,16 @@ Channels
 - Ingrates with other tools.
 - Not infinite free space.
 
+![Dropbox logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/DropboxIcon.jpg?raw=true)
+
 ---
 
 # Microsoft Teams
 
 - Pros: Productivity, Easy Implementation with other Microsoft stuff, chat, channels, Feds use it
 - Cons: Confusing file structures, lack of authority control, limited flexibility, Thanos uses it
+
+![Microsoft Teams logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/MicrosoftTeamsIcon.jpg?raw=true)
 
 ---
 
@@ -65,21 +63,36 @@ Channels
 - Can be used to host and share other files, like these course materials
 - Easy method for sharing code files and collaborate on open source projects
 
+![Github logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/github-mark.png?raw=true)
 
 ---
 
-Galileo's Notebook
+# Galileo's Notebook
+
+![Pages of Galileo's Notebook](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Gnotebook1.jpg?raw=true)
 
 ---
 
-Galileo's Notebook part 2
+# Galileo's Notebook 
+
+![Pages of Galileo's Notebook](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/gnotebook2.jpg?raw=true)
+
+Galileo's notes directly integrated his **data** (drawings of Jupiter and its moons),
+
+key **metadata** (timing of each observation, weather, and telescope properties), 
+
+and **text** (descriptions of methods, analysis, and conclusions).
+
+- Goodman et al 2014
+
 
 ---
 
 # Open Notebook Science
 - Sharing scientific progress *while it is happening*
+- openlabnotebooks.org – A growing team of groundbreaking scientists around the world are now sharing their lab notebooks online
 
-Screenshot? 
+![Screenshot of openlabnotebooks.org](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Openlabnotebooksorg.jpg?raw=true)
 
 ---
 
@@ -88,6 +101,8 @@ Screenshot?
 Computers are good at consuming, producing and processing data. Humans, on the other hand, process the world through narratives. Thus, in order for data, and the computations that process and visualize that data, to be useful for humans, they must be embedded into a narrative - a computational narrative - that tells a story for a particular audience and context.
 
 Perez, Fernando, and Brian E. Granger. *"Project Jupyter: Computational narratives as the engine of collaborative data science."*
+
+![Jupyter logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/JupyterIcon.jpg?raw=true)
 
 ---
 
@@ -109,17 +124,17 @@ Perez, Fernando, and Brian E. Granger. *"Project Jupyter: Computational narrativ
 
 ---
 
-# Participation Activity #6 – Part 1
+# Participation Activity #5 – Part 1
 
 - Form teams of three and Colab in Colab by copying this notebook and sharing it with each other (1 “expert” per group pls)
 - https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_arbitrary_image_stylization.ipynb
 - Upload a new image and convert (save to include in your Team report)
 
-EXAMPLE IMAGE?
+![alt text here](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/GoogleCollab.jpg?raw=true)
 
 ---
 
-# Participation Activity #6 - Part 2
+# Participation Activity #5 - Part 2
 
 - Pick one of the Ten Favourite Colab Notebooks or others if you know of others and work through another exercise
 - Save a copy in DRIVE
