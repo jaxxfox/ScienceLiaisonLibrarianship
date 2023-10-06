@@ -1,6 +1,6 @@
 ---
 title: “Soft Skills and Community”
-Update: September 14, 2023
+Update: October 6, 2023
 layout: slides
 
 ---
@@ -21,6 +21,8 @@ layout: slides
 - What is a soft skill you are great at?
 - What is one soft skill can improve on?
 - How do soft skills differ across cultures?
+
+![Image by Mohamed Hassan from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/problemsolvingImagebyfromPixabay.jpg?raw=true) ![Image by Mohamed Hassan from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/eqImagebyMohamedHassanfromPixabay.jpg?raw=true) ![Image by Gábor Adonyi from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/creativityimagebyG%C3%A1borAdonyifromPixabay.jpg?raw=true)
 
 ---
 
@@ -157,7 +159,27 @@ Read, A., & Cox, A. (2020). Underrated or overstated? The need for technological
 
 ---
 
-FIGURE
+# Community of Practice
+
+- Agenda Design
+  * Domains
+  * Practice
+  * Community
+  * Introductions
+- Creating Joint Agendas
+  * Community building
+  * Identify new connections
+  * Some are content driven
+  * Learning outcomes
+- Making connections
+  * Journal club
+  * Mentoring new faculty 
+  * Instructional skills workshops
+  * Library outreach
+  * TA Training
+  * Course design
+  * Portfolio
+
 
 ---
 
