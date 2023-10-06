@@ -1,6 +1,6 @@
 ---
 title: “Collaborative Analysis”
-Update: September 5, 2023
+Update: October 6, 2023
 layout: slides
 
 ---
@@ -55,13 +55,16 @@ Channels
 
 - Pros: Productivity, Easy Implementation with other Microsoft stuff, chat, channels, Feds use it
 - Cons: Confusing file structures, lack of authority control, limited flexibility, Thanos uses it
-- @ebonymaw where r u? respond asap
 
 ---
 
 # Github
 
-???
+- Online software development platform
+- Used for storing, tracking, and collaborating on software projects
+- Can be used to host and share other files, like these course materials
+- Easy method for sharing code files and collaborate on open source projects
+
 
 ---
 
