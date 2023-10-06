@@ -119,6 +119,8 @@ layout: slides
 - Qualitative comments indicated students lacked self-awareness, in particular the ability to identify strengths and weaknesses.
 - What can UT, CCI, SIS, do to address this perceived/actual lack of soft skills?
 
+![Image by StockSnap](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/teamworkImagebyStockSnapfromPixabay.jpg?raw=true) ![Image by Mohamed Hassan](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/communicationImagebyMohamedHassanfromPixabay.jpg?raw=true)
+
 ---
 
 # Competency and expectations
