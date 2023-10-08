@@ -1,6 +1,6 @@
 ---
 title: “Research Data Management”
-Update: September 15, 2023
+Update: October 7, 2023
 layout: slides
 
 ---
@@ -127,13 +127,24 @@ Michener, W. K., Brunt, J. W., Helly, J. J., Kirchner, T. B., & Stafford, S. G..
 
 # Digital Curation Centre’s Curation Lifecycle Model
 
-DIAGRAM??
+![Data Life Cycle Diagram](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/DataLifeCycle.jpg?raw=true)
+Image by DataONE
 
 ---
 
 # Research Data Management (RDM)
 
-DIAGRAM??
+- Education
+  * Raise awareness of RDM’s importance
+  * Encourage RDM skill-building
+  * Disclose RDM tools and resources
+- Expertise
+  * Decision support for RDM problems
+  * Customized solutions to RDM problems
+- Curation
+  * Technical infrastructure to support RDM
+  * Related services that support RDM
+
 
 ---
 
@@ -383,7 +394,8 @@ Both operate as “wizards” and provide prompts for the user to fill out in or
 
 ---
 
-Animated diagram??
+![ORCID ID](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/orcididdiagram.png?raw=true)
+Diagram by Wade Bishop and Jaxx Fox
 
 ---
 
