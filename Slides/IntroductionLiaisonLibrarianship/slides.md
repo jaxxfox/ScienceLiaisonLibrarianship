@@ -1,6 +1,6 @@
 ---
 title: “Introduction- Liaison Librarianship”
-Update: October 5, 2023
+Update: October 7, 2023
 layout: slides
 
 ---
@@ -360,7 +360,7 @@ Abrizah, A., Inuwa, S., & Afiqah-Izzati, N. (2016). Systematic Literature Review
 
 ---
 
-![Image by Jaxx Fox](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Peerreviewprocess.jpg?raw=true)
+![Image by Jaxx Fox](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/PeerReviewProcess.png?raw=true)
 
 ---
 
