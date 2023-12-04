@@ -85,6 +85,7 @@ and **text** (descriptions of methods, analysis, and conclusions).
 
 - Goodman et al 2014
 
+Goodman, Alyssa, Alberto Pepe, Alexander W. Blocker, Christine L. Borgman, Kyle Cranmer, Merce Crosas, Rosanne Di Stefano, et al. “Ten Simple Rules for the Care and Feeding of Scientific Data.” PLOS Computational Biology 10, no. 4 (April 24, 2014): e1003542. https://doi.org/10.1371/journal.pcbi.1003542.
 
 ---
 
