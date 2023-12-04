@@ -122,6 +122,7 @@ What (atmospheric) science librarians really do? *2021 AMS Annual Meeting*.
  - Year range in current job – 2-16
  - Skills and tasks varied
   * Mostly OTJ or self-taught
+    
 ---
 
 # Skills and Tasks
