@@ -33,6 +33,7 @@ layout: slides
 - Channels
 
 ![Slack logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/SlackIcon.jpg?raw=true)
+Image credit: Slack
 
 ---
 
@@ -44,6 +45,7 @@ layout: slides
 - Not infinite free space.
 
 ![Dropbox logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/DropboxIcon.jpg?raw=true)
+Image credit: Dropbox
 
 ---
 
@@ -53,6 +55,7 @@ layout: slides
 - Cons: Confusing file structures, lack of authority control, limited flexibility
 
 ![Microsoft Teams logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/MicrosoftTeamsIcon.jpg?raw=true)
+Image credit: Microsoft
 
 ---
 
@@ -64,6 +67,7 @@ layout: slides
 - Easy method for sharing code files and collaborate on open source projects
 
 ![Github logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/github-mark.png?raw=true)
+Image credit: Github
 
 ---
 
@@ -94,6 +98,7 @@ Goodman, Alyssa, Alberto Pepe, Alexander W. Blocker, Christine L. Borgman, Kyle 
 - openlabnotebooks.org – A growing team of groundbreaking scientists around the world are now sharing their lab notebooks online
 
 ![Screenshot of openlabnotebooks.org](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Openlabnotebooksorg.jpg?raw=true)
+Image Credit: openlabnotebooks.org homepage screenshot
 
 ---
 
@@ -104,6 +109,7 @@ Computers are good at consuming, producing and processing data. Humans, on the o
 Perez, Fernando, and Brian E. Granger. *"Project Jupyter: Computational narratives as the engine of collaborative data science."*
 
 ![Jupyter logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/JupyterIcon.jpg?raw=true)
+Image credit: Jupyter
 
 ---
 
@@ -131,7 +137,8 @@ Perez, Fernando, and Brian E. Granger. *"Project Jupyter: Computational narrativ
 - https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_arbitrary_image_stylization.ipynb
 - Upload a new image and convert (save to include in your Team report)
 
-![alt text here](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/GoogleCollab.jpg?raw=true)
+![Image credit: Wade Bishop, Google Colab](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/GoogleCollab.jpg?raw=true)
+Image credit: Wade Bishop, Google Colab
 
 ---
 
