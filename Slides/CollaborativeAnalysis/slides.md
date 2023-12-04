@@ -1,6 +1,6 @@
 ---
 title: “Collaborative Analysis”
-Update: October 6, 2023
+Update: December 4, 2023
 layout: slides
 
 ---
@@ -49,8 +49,8 @@ layout: slides
 
 # Microsoft Teams
 
-- Pros: Productivity, Easy Implementation with other Microsoft stuff, chat, channels, Feds use it
-- Cons: Confusing file structures, lack of authority control, limited flexibility, Thanos uses it
+- Pros: Productivity, Easy Implementation with other Microsoft stuff, chat, channels
+- Cons: Confusing file structures, lack of authority control, limited flexibility
 
 ![Microsoft Teams logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/MicrosoftTeamsIcon.jpg?raw=true)
 
