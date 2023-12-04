@@ -1,6 +1,6 @@
 ---
 title: “Data Librarians”
-Update: October 2, 2023
+Update: December 4, 2023
 layout: slides
 
 ---
@@ -23,6 +23,7 @@ layout: slides
 - What are some roles librarians may serve?
 
 ![Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/CommunityImagebyGerdAltmannfromPixabay.jpg?raw=true)
+Image Credit: Gerd Altmann from Pixabay
 
 ---
 
