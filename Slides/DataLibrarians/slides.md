@@ -1,6 +1,6 @@
 ---
 title: “Data Librarians”
-Update: December 4, 2023
+Update: December 18, 2023
 layout: slides
 
 ---
@@ -177,8 +177,6 @@ Methods:
 - Created tables and developed results.
 
 “…librarians tend to need previous library experience and general knowledge of library systems, while data managers often need more technical abilities within data management. Research experience is important for both.”
-
-GRAPH?
 
 ---
 
