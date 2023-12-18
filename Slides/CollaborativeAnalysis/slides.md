@@ -1,6 +1,6 @@
 ---
 title: “Collaborative Analysis”
-Update: December 4, 2023
+Update: December 18, 2023
 layout: slides
 
 ---
@@ -32,7 +32,8 @@ layout: slides
 - Used as community platform
 - Channels
 
-![Slack logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/SlackIcon.jpg?raw=true)
+![Slack logo: four rounded thick lines and four teardrop drops in a pinwheel formation, one line and dot each in red, yellow, blue, and green](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/SlackIcon.jpg?raw=true)
+
 Image credit: Slack
 
 ---
@@ -44,7 +45,8 @@ Image credit: Slack
 - Ingrates with other tools.
 - Not infinite free space.
 
-![Dropbox logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/DropboxIcon.jpg?raw=true)
+![Dropbox logo: a representation blue colored open box on a grey background](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/DropboxIcon.jpg?raw=true)
+
 Image credit: Dropbox
 
 ---
@@ -54,7 +56,8 @@ Image credit: Dropbox
 - Pros: Productivity, Easy Implementation with other Microsoft stuff, chat, channels
 - Cons: Confusing file structures, lack of authority control, limited flexibility
 
-![Microsoft Teams logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/MicrosoftTeamsIcon.jpg?raw=true)
+![Microsoft Teams logo: two minimalist representations of people in shades of blue, one larger to appear closer, behind a white 'T' on a blue square background](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/MicrosoftTeamsIcon.jpg?raw=true)
+
 Image credit: Microsoft
 
 ---
@@ -66,20 +69,21 @@ Image credit: Microsoft
 - Can be used to host and share other files, like these course materials
 - Easy method for sharing code files and collaborate on open source projects
 
-![Github logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/github-mark.png?raw=true)
+![Github logo: the white silhouette of a cat, with a larger than usual head, tail sticking out to the side, in a black circle](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/github-mark.png?raw=true)
+
 Image credit: Github
 
 ---
 
 # Galileo's Notebook
 
-![Pages of Galileo's Notebook](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Gnotebook1.jpg?raw=true)
+![Pages of Galileo's Notebook: typeset Italian writing on pages, yellowed from extreme age, with a few small circlular symbols](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Gnotebook1.jpg?raw=true)
 
 ---
 
 # Galileo's Notebook 
 
-![Pages of Galileo's Notebook](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/gnotebook2.jpg?raw=true)
+![Pages of Galileo's Notebook: typeset Italian writing on pages, yellowed from extreme age, with a few small circlular symbols](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/gnotebook2.jpg?raw=true)
 
 Galileo's notes directly integrated his **data** (drawings of Jupiter and its moons),
 
@@ -97,7 +101,8 @@ Goodman, Alyssa, Alberto Pepe, Alexander W. Blocker, Christine L. Borgman, Kyle 
 - Sharing scientific progress *while it is happening*
 - openlabnotebooks.org – A growing team of groundbreaking scientists around the world are now sharing their lab notebooks online
 
-![Screenshot of openlabnotebooks.org](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Openlabnotebooksorg.jpg?raw=true)
+![Screenshot of openlabnotebooks.org: a webpage totled "openlabnotebooks.org" with an image of a close up labwork, a blue gloved hand on an assay tray being filled by a multi-pipette device. Below are dark blue cartoon dialogue bubbles with white text and a seperate column of black text](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Openlabnotebooksorg.jpg?raw=true)
+
 Image Credit: openlabnotebooks.org homepage screenshot
 
 ---
@@ -108,7 +113,8 @@ Computers are good at consuming, producing and processing data. Humans, on the o
 
 Perez, Fernando, and Brian E. Granger. *"Project Jupyter: Computational narratives as the engine of collaborative data science."*
 
-![Jupyter logo](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/JupyterIcon.jpg?raw=true)
+![Jupyter logo: the word "Jupyter" in dark grey text with two orange curved lines, one above the text, one below and three medium grey circles around the text on a light grey background](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/JupyterIcon.jpg?raw=true)
+
 Image credit: Jupyter
 
 ---
@@ -137,7 +143,7 @@ Image credit: Jupyter
 - https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_arbitrary_image_stylization.ipynb
 - Upload a new image and convert (save to include in your Team report)
 
-![Image credit: Wade Bishop, Google Colab](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/GoogleCollab.jpg?raw=true)
+![Three image panels demonstrating the Colab process: first one is of a white man with sunglasses and a dark shirt smiling in front of two rhinos grazing on a sprasely vegetated grassland near a bare tree and in front of a mountain; this image is labeled "Original content image". Second image is a stylized charcoal drawing of a man pulling a cart, labeled "Style image". Third image is the first image in black and white and styled like the charcoal strokes in the second image; this last image is labeled "Stylized image"](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/GoogleCollab.jpg?raw=true)
 Image credit: Wade Bishop, Google Colab
 
 ---
