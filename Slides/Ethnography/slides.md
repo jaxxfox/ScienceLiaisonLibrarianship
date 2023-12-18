@@ -1,6 +1,6 @@
 ---
 title: “Ethnography”
-Update: October 2, 2023
+Update: December 18, 2023
 layout: slides
 
 ---
@@ -20,7 +20,9 @@ layout: slides
 - What wasn’t?
 - Any funny stories?
 
-![Tumisu from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewclipartImagebyTumisufromPixabay.png?raw=true) ![CHÂUVIỄN from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/talkingamongbooksImagebyCH%C3%82UVI%E1%BB%84NfromPixabay.jpg?raw=true)
+![Tumisu from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewclipartImagebyTumisufromPixabay.png?raw=true) ![CHÂUVIỄN from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/talkingamongbooksImagebyCH%C3%82UVI%E1%BB%84NfromPixabay.jpg?raw=true) 
+
+Image Credits: Left, Tumisu from Pixabay; Right, CHÂUVIỄN from Pixabay
 
 ---
 
@@ -32,6 +34,8 @@ layout: slides
 - Taking notes, understanding actors
 
 ![Pexels from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewImagebyPexelsfromPixabay.jpg?raw=true) ![Sofia Terzoni from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/crowdImagebySofiaTerzonifromPixabay.jpg?raw=true)
+
+Image Credits: Left, Pexels from Pixabay; Right, Sofia Terzoni from Pixabay
 
 ---
 
@@ -61,6 +65,8 @@ layout: slides
 - Community: apart or part
 
 ![Amir Arabshahi from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/IndividualincrowdImagebyAmirArabshahifromPixabay.jpg?raw=true) ![Mircea All in collections from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/prideImagebyMirceaAllincollectionsfromPixabay.jpg?raw=true)
+
+Image Credits: Right, Amir Arabshahi from Pixabay; Left, Mircea All in collections from Pixabay
 
 ---
 
