@@ -1,6 +1,6 @@
 ---
 title: “Modes and Models of Instruction”
-Update: October 2, 2023
+Update: December 18, 2023
 layout: slides
 
 ---
@@ -26,7 +26,9 @@ layout: slides
 - Tree octopus species, including the endangered Pacific Northwest Tree Octopus, are some of the most elusive creatures known to Man. Not many researchers have managed to photograph them in the wild and those few in captivity tend to hide in inaccessible corners of their cages.
 - https://zapatopi.net/treeoctopus/sightings.html
 
-![Open Clipart Vectors from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/octopusImagebyOpenClipartVectorsfromPixabay.png?raw=true) ![Open Clipart Vectors from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/treeImagebyOpenClipartVectorsfromPixabay.png?raw=true)
+![Drawing of a large red octopus with tentacles curling around it](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/octopusImagebyOpenClipartVectorsfromPixabay.png?raw=true) ![Drawing of a mature tree](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/treeImagebyOpenClipartVectorsfromPixabay.png?raw=true)
+
+Image Credits: Left, Open Clipart Vectors from Pixabay; Right, Open Clipart Vectors from Pixabay
 
 ---
 
@@ -49,7 +51,9 @@ layout: slides
 
 - **Information literacy** is a set of abilities enabling individuals to ‘recognize when information is needed and have the ability to locate, evaluate, and use effectively the needed information.”
 
-![Arek Socha from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/questionmarkImagebyArekSochafromPixabay.jpg?raw=true) ![Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/searchImagebyGerdAltmannfromPixabay.jpg?raw=true)
+![Pile of grey question marks with two illuminated question marks, one yellow and one blue](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/questionmarkImagebyArekSochafromPixabay.jpg?raw=true) ![Image of a computer screen with the word "search" displayed in multi-colored text not unlike the Google logo with a large computer pointer shaped like a pointing finger touching the screen, indicated by yellow cartoon action marks](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/searchImagebyGerdAltmannfromPixabay.jpg?raw=true)
+
+Image Credits: Left, Arek Socha from Pixabay; Right, Gerd Altmann from Pixabay
 
 ---
 
