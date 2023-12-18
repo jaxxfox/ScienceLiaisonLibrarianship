@@ -22,7 +22,7 @@ layout: slides
 - Does this might be a domain, discipline, organization, profession, or other group need librarians?
 - What are some roles librarians may serve?
 
-![Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/CommunityImagebyGerdAltmannfromPixabay.jpg?raw=true)
+![Collage of square images making up a larger rectangle, each smaller image is a portrait of a unique person in a unique pose representing different races, ethnicities, and cultures of humans](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/CommunityImagebyGerdAltmannfromPixabay.jpg?raw=true)
 Image Credit: Gerd Altmann from Pixabay
 
 ---
@@ -43,7 +43,7 @@ Image Credit: Gerd Altmann from Pixabay
 
 ---
 
-![Mayernik et al](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/DataCuration.jpg?raw=true)
+![Diagram labled "Data curation education skill spectrum" from Mayernik et al, 2014 that represents the findings of that paper](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/DataCuration.jpg?raw=true)
 
 Mayernik, M.S., Davis, L., Kelly, K., Dattore, B., Strand, G., Worley, S., & Marlino, M. (2014). Research center insights into data curation education and curriculum. In Ł. Bolikowski, V. Casarosa, P. Goodale, N. Houssos, P. Manghi, & J. Schirrwagen (Eds.), Theory and Practice of Digital Libraries -- TPDL 2013 Selected Workshops (Vol. 416, pp. 239–248). Springer International Publishing.
 
