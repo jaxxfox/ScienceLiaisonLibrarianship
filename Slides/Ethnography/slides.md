@@ -66,7 +66,7 @@ Image Credits: Left, Pexels from Pixabay; Right, Sofia Terzoni from Pixabay
 
 ![Amir Arabshahi from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/IndividualincrowdImagebyAmirArabshahifromPixabay.jpg?raw=true) ![Mircea All in collections from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/prideImagebyMirceaAllincollectionsfromPixabay.jpg?raw=true)
 
-Image Credits: Right, Amir Arabshahi from Pixabay; Left, Mircea All in collections from Pixabay
+Image Credits: Left, Amir Arabshahi from Pixabay; Right, Mircea All in collections from Pixabay
 
 ---
 
