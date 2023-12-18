@@ -219,7 +219,11 @@ Methods:
 - The curriculum development plan for the Geographic Information Librarianship (GIL) project includes a survey of practicing GIS and map librarians, archivists, and other information professionals to weigh the importance of listed knowledge, skills, and abilities (KSAs) from their real-world experience to inform curriculum development.  
 - Now that we know typical tasks… we can do this for ESIP and likely others?
 
-INSERT SLIDE NOTES
+???
+
+Despite the value of these survey findings for GIL curriculum development, the core competencies from 2008 do not explicitly mention how to handle geoweb data.
+Update the CORE
+
 
 ---
 
