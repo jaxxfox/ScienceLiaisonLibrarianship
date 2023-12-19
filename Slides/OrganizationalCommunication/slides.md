@@ -1,6 +1,6 @@
 ---
 title: “Organizational Communication"
-Update: September 29, 2023
+Update: December 19, 2023
 layout: slides
 
 ---
@@ -14,7 +14,7 @@ layout: slides
 
 ---
 
-# Participation Activity 5
+# Participation Activity 4
 
 1. In whatever domain/discipline you're most familiar with, please discuss communication channels (both scholarly and everyday life) of that area.
 2. In whatever workplace you're most familiar with, please discuss communication norms and modes. What works? What doesn't?
@@ -100,19 +100,19 @@ layout: slides
 
 ---
 
-![Image Credit: COMPASS Science Communication](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/COMPASSScienceCommunicationtemplate.jpg?raw=true)
+![Diagram of a rectangle divided into four areas with an inset smaller box. Each section is labeled using the COMPASS Science Communication model. This is a how-to example](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/COMPASSScienceCommunicationtemplate.jpg?raw=true)
 
 Image Credit: COMPASS Science Communication
 
 ---
 
-![Image Credit: Wade Bishop using COMPASS Science Communication model](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Bishopexample1.jpg?raw=true)
+![Diagram of a rectangle divided into four areas with an inset smaller box. Each section is labeled using the COMPASS Science Communication model. This one is about Ocean acidification and seafood](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Bishopexample1.jpg?raw=true)
 
 Image Credit: Wade Bishop using COMPASS Science Communication model
 
 ---
 
-![Image Credit: Wade Bishop using COMPASS Science Communication model](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Bishopexample2.jpg?raw=true)
+![Diagram of a rectangle divided into four areas with an inset smaller box. Each section is labeled using the COMPASS Science Communication model. This one is about Value of green spaces and trees to communities](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Bishopexample2.jpg?raw=true)
 
 Image Credit: Wade Bishop using COMPASS Science Communication model
 
