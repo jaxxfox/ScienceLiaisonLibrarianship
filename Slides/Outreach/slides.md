@@ -1,6 +1,6 @@
 ---
 title: “Outreach”
-Update: October 2, 2023
+Update: January 4, 2024
 layout: slides
 
 ---
@@ -34,7 +34,9 @@ layout: slides
 
 Some trends in academic librarianship, include library budget cuts, reduced purchasing power, the availability of electronic resources, and the decreasing need to visit the library or consult a subject specialist, have increased the sense of urgency to foster new service roles based on an outreach-centered paradigm.
 
-![Michal Jarmoluk from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/emptylibraryImagebyMichalJarmolukfromPixabay.jpg?raw=true) ![Mohamed Hassan from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/budgetcutImagebyMohamedHassanfromPixabay.jpg?raw=true)
+![Large, open room in a library, empty tables and chairs in front of shelves and shelves of books. There is a second floor balcony with more tables and chairs with a single person in frame](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/emptylibraryImagebyMichalJarmolukfromPixabay.jpg?raw=true) ![Clipart image of a pair of hands with a person in the suit pointing to a list with the right hand and using a calculator with the left](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/budgetcutImagebyMohamedHassanfromPixabay.jpg?raw=true)
+
+Image Credits: Left, Michal Jarmoluk from Pixabay; Right, Mohamed Hassan from Pixabay
 
 ---
 
@@ -49,7 +51,9 @@ Some trends in academic librarianship, include library budget cuts, reduced purc
 - representing user needs to library decision-makers 
 - increasing collaboration and partnerships with faculty
 
-![Wade Bishop](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/communitydiagram.jpg?raw=true)
+![Diagram: Large teal oval with the words "Library across the larger community!" in black text with a smaller black circle with "Library across campus" in white text](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/communitydiagram.jpg?raw=true)
+
+Image credit: Wade Bishop
 
 ---
 
@@ -153,7 +157,9 @@ FIGURE
 - What other consulting may occur in information agency settings?
 - What new roles can you imagine may emerge?
 
-![Clker-Free-Vector-Images from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/openbookImagebyClkerFreeVectorImagesfromPixabay.png?raw=true) ![Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/sciencemeans1ImagebyGerdAltmannfromPixabay.jpg?raw=true)
+![Line art of a book, open midway with a black ribbon peeking out of the pages](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/openbookImagebyClkerFreeVectorImagesfromPixabay.png?raw=true) ![Blue toned image of three computer monitors in front of a city skyline at night. The monitors have binary lines of code, ones and zeros, displayed on blue screens. There is a floating sphere of glowing binary code and glowing lines in the space above the monitors](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/sciencemeans1ImagebyGerdAltmannfromPixabay.jpg?raw=true)
+
+Image Credits: Left, Clker-Free-Vector-Images from Pixabay; Right, Gerd Altmann from Pixabay
 
 ---
 
