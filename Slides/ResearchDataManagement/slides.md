@@ -1,6 +1,6 @@
 ---
 title: “Research Data Management”
-Update: October 7, 2023
+Update: January 15, 2023
 layout: slides
 
 ---
@@ -68,6 +68,9 @@ Aside from reproducibility and transparency (though both excellent reasons!), go
 # Data Management Facilitates Sharing and Re-use…
 
 Data Management -> Data Sharing -> Data Reuse
+
+![Large box with "Data management" at the top with an arrow pointing to a smaller box with "Data sharing" and another arrow pointing down to a smaller box with "Data reuse"](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Data%20Management.jpg)
+
 
 ???
 
