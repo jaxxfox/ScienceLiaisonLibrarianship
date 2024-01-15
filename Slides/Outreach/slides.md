@@ -1,6 +1,6 @@
 ---
 title: “Outreach”
-Update: January 4, 2024
+Update: January 15, 2024
 layout: slides
 
 ---
@@ -147,7 +147,8 @@ Silver, I. D. (2014, 2014 Winter). Outreach activities for librarian liaisons. *
 
 # Consulting Example: Making an Open Access Journal
 
-FIGURE
+![Diagram with four boxes](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Open%20Access%20Journal%20Example.png)
+Image Credit: Jaxx Fox from Wade Bishop's material
 
 ---
 
