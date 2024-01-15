@@ -71,6 +71,8 @@ Data Management -> Data Sharing -> Data Reuse
 
 ![Large box with "Data management" at the top with an arrow pointing to a smaller box with "Data sharing" and another arrow pointing down to a smaller box with "Data reuse"](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/Data%20Management.jpg)
 
+Image credit: Jaxx Fox
+
 
 ???
 
