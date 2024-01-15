@@ -312,6 +312,10 @@ Both operate as “wizards” and provide prompts for the user to fill out in or
   * CC BY-NC (Attribution-NonCommercial)
   * CC BY-SA (Attribution-ShareAlike)
 
+![Two C's side by side "CC" within a circle](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/creativecommonsImagebyCopyrightFreePicturesfromPixabay.png)
+
+Image by CopyrightFree Pictures from Pixabay
+
 ---
 
 # Cost considerations
