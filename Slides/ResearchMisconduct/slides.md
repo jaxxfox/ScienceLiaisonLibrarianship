@@ -228,7 +228,7 @@ Background
 - Plagiarism detection software (iThenticate) and image manipulation detection exists.
 - What can librarians do?
 
-![](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/rightImagebyTumisufromPixabay.jpg?raw=true) ![Evanelos Evangelou from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/plagiarismImagebyEvangelosEvangeloufromPixabay.png?raw=true)
+![Image of a yellow sign on a blue sky background. The text on the sign is black and bolded "RIGHT" with an arrow to the right above "WRONG" with an arrow to the left](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/rightImagebyTumisufromPixabay.jpg?raw=true) ![An image of a scroll with a disembodied hand with a light skin tone holding a blue pen. On the scroll in cursive script is the phrase "I will not plagiarize another's work." repeated many times. The hand is writing this phrase again inthe middle of the scroll.](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/plagiarismImagebyEvangelosEvangeloufromPixabay.png?raw=true)
 
 Image credit: Left, Tumi from Pixabay; right, Evanelos Evangelou from Pixabay
 
