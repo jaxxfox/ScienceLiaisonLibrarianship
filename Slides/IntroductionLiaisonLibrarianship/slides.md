@@ -1,6 +1,6 @@
 ---
 title: “Introduction- Liaison Librarianship”
-Update: October 7, 2023
+Update: January 16, 2024
 layout: slides
 
 ---
@@ -102,7 +102,7 @@ The project will address broad research questions related to the practice and im
 ---
 
 # Participation Activities (20%)
-(six different activities due various dates throughout)
+(five different activities due various dates throughout)
 
 - It is important to note that class participation is twenty percent of your grade because participation is an important component of facilitating learning in this class.
 - These activities supplement other assignments.
