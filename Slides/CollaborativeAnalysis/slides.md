@@ -144,6 +144,7 @@ Image credit: Jupyter
 - Upload a new image and convert (save to include in your Team report)
 
 ![Three image panels demonstrating the Colab process: first one is of a white man with sunglasses and a dark shirt smiling in front of two rhinos grazing on a sprasely vegetated grassland near a bare tree and in front of a mountain; this image is labeled "Original content image". Second image is a stylized charcoal drawing of a man pulling a cart, labeled "Style image". Third image is the first image in black and white and styled like the charcoal strokes in the second image; this last image is labeled "Stylized image"](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/GoogleCollab.jpg?raw=true)
+
 Image credit: Wade Bishop, Google Colab
 
 ---
