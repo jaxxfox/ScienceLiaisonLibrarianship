@@ -228,7 +228,9 @@ Background
 - Plagiarism detection software (iThenticate) and image manipulation detection exists.
 - What can librarians do?
 
-![Tumi from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/rightImagebyTumisufromPixabay.jpg?raw=true) ![Evanelos Evangelou from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/plagiarismImagebyEvangelosEvangeloufromPixabay.png?raw=true)
+![](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/rightImagebyTumisufromPixabay.jpg?raw=true) ![Evanelos Evangelou from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/plagiarismImagebyEvangelosEvangeloufromPixabay.png?raw=true)
+
+Image credit: Left, Tumi from Pixabay; right, Evanelos Evangelou from Pixabay
 
 ---
 
