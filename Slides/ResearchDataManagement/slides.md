@@ -1,6 +1,6 @@
 ---
 title: “Research Data Management”
-Update: January 15, 2023
+Update: January 16, 2023
 layout: slides
 
 ---
@@ -115,7 +115,6 @@ UK Data Archive: http://www.data-archive.ac.uk/
 - Loss of financial stability 
 - Changes in user expectations and requirements
 
-GRAPH?
 
 Michener, W. K., Brunt, J. W., Helly, J. J., Kirchner, T. B., & Stafford, S. G.. (2019). Non-geospatial metadata for the ecological sciences. *Ecological Applications*, 7. 330-342.
 
