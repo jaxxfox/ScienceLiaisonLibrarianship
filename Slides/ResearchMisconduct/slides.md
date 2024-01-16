@@ -1,6 +1,6 @@
 ---
 title: “Research Misconduct”
-Update: October 2, 2023
+Update: January 16, 2024
 layout: slides
 
 ---
@@ -225,7 +225,7 @@ Background
 # Agents of Integrity
 
 - Quantitative performance metrics (e.g., publications, patents, research dollars, doc students) give researcher “perverse incentives” to compromise integrity.
-- Plagiarism detection software (iThenticate) and image manipulation detection exits.
+- Plagiarism detection software (iThenticate) and image manipulation detection exists.
 - What can librarians do?
 
 ![Tumi from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/rightImagebyTumisufromPixabay.jpg?raw=true) ![Evanelos Evangelou from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/plagiarismImagebyEvangelosEvangeloufromPixabay.png?raw=true)
