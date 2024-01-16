@@ -23,6 +23,7 @@ layout: slides
 - What are some roles librarians may serve?
 
 ![Collage of square images making up a larger rectangle, each smaller image is a portrait of a unique person in a unique pose representing different races, ethnicities, and cultures of humans](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/CommunityImagebyGerdAltmannfromPixabay.jpg?raw=true)
+
 Image Credit: Gerd Altmann from Pixabay
 
 ---
