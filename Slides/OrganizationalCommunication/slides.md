@@ -1,6 +1,6 @@
 ---
 title: “Organizational Communication"
-Update: December 19, 2023
+Update: January 22, 2024
 layout: slides
 
 ---
@@ -117,5 +117,12 @@ Image Credit: Wade Bishop using COMPASS Science Communication model
 Image Credit: Wade Bishop using COMPASS Science Communication model
 
 ---
+
+# Resources
+
+Bullis, C. (2005). From productivity servant to foundation to connection: One history of organizational communication. *Management Communication Quarterly*, 18(4), 595-603.
+
+Oldenburg, R. (1989). *The great good place: Cafés, coffee shops, community centers, beauty parlors, general stores, bars, hangouts, and how they get you through the day*. New York: Paragon House.
+
 
 ---
