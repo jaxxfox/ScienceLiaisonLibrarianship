@@ -1,6 +1,6 @@
 ---
 title: “Outreach”
-Update: January 15, 2024
+Update: January 22, 2024
 layout: slides
 
 ---
@@ -172,6 +172,11 @@ Image Credits: Left, Clker-Free-Vector-Images from Pixabay; Right, Gerd Altmann 
 
 ---
 
+# Resources
+
+Driscoll, A. (2008). Carnegie's community-engagement classification: Intentions and insights. *Change: The Magazine of Higher Learning*, 40(1), 38-41. 10.3200/CHNG.40.1.38-41
+
+Scott, W. R. (1995). *Institutions and organization-s*. Thousand Oaks, CA: Sage.
 
 
 
