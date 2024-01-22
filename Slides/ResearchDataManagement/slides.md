@@ -1,6 +1,6 @@
 ---
 title: “Research Data Management”
-Update: January 16, 2023
+Update: January 22, 2024
 layout: slides
 
 ---
@@ -603,6 +603,42 @@ In a time where researchers face increasing accountability for their data curati
 
 
 
+
+---
+
+# Resources
+
+Carlson, J. (2017, February 24). An analysis of data management plans from the University of Michigan [Technical Report]. *University of Michigan Library*. Retrieved from https://hdl.handle.net/2027.42/136230
+
+Hey, T., & Trefethen, A. (2003). The data deluge: An e‐science perspective. *Grid computing: Making the global infrastructure a reality*, 809-824. 10.1002/0470867167
+
+Higgins, S. (2012). The lifecycle of data management. *Managing research data*, 17-46.
+
+Jaguszewski, J., & Williams, K. (2013). New roles for new times: Transforming liaison roles in research libraries. Association of Research Libraries. Retrieved from the *University of Minnesota Digital Conservancy*, https://hdl.handle.net/11299/169867.
+
+Koumoulos, E. P., Trompeta, A. F., Santos, R. M., Martins, M., Santos, C. M. D., Iglesias, V., ... & Charitidis, C. A. (2019). Research and development in carbon fibers and advanced high-performance composites supply chain in Europe: a roadmap for challenges and the industrial uptake. *Journal of Composites Science*, 3(3), 86. https://doi.org/10.3390/jcs3030086
+
+PLOS ONE. (n.d.). *Data Availability*. https://journals.plos.org/plosone/s/data-availability
+
+Poole, A. H., & Garwood, D. A. (2020). Digging into data management in public‐funded, international research in digital humanities. *Journal of the Association for Information Science and Technology*, 71(1), 84-97.  https://doi.org/10.1002/asi.24213
+
+---
+
+# Resources
+
+Pryor, G. (Ed.). (2012). *Managing research data*. Facet Publishing.
+
+Rolando, Lizzy. (2015, June 5). Applying the DART Rubric to Inform Georgia Tech RDM Service Development [Presentation]. *Georgia Tech Digital Repository*. Retrieved from http://hdl.handle.net/1853/53662
+
+Samuel SM, Grochowski PF, Lalwani LN, et al. (2015) Analyzing data management plans: Where librarians can make a difference. In: 122nd ASEE annual conference & exposition, Seattle, WA, USA. Available at: https://www.asee.org/public/conferences/56/papers/12072/view 
+
+Smale, N., Unsworth, K., Denyer, G., & Barr, D. (2018). The history, advocacy and efficacy of data management plans. *bioRxiv*, 443499. https://doi.org/10.1101/443499
+
+The Royal Society. (2017, June 1). *Data management and use: Governance in the 21st century - a British Academy and Royal Society project*. https://royalsociety.org/topics-policy/projects/data-governance/
+
+Van Loon, J. E., Akers, K. G., Hudson, C., & Sarkozy, A. (2017). Quality evaluation of data management plans at a research university. *IFLA journal*, 43(1), 98-104. https://doi-org.utk.idm.oclc.org/10.1177/0340035216682041
+
+Wittenberg, J., Sackmann, A., & Jaffe, R. (2018). Situating expertise in practice: domain-based data management training for liaison librarians. *The Journal of Academic Librarianship*, 44(3), 323-329. https://doi.org/10.1016/j.acalib.2018.04.004
 
 ---
 
