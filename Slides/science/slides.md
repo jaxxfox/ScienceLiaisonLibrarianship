@@ -1,6 +1,6 @@
 ---
 title: “Science, Scientists, & Scientific Information”
-Update: October 1, 2023
+Update: January 22, 2024
 layout: slides
 
 ---
@@ -171,6 +171,14 @@ ADD SPEAKER NOTES?
 ---
 
 
+# Resources
+
+Frewer, L. J., Scholderer, J., & Bredahl, L. (2003). Communicating about the risks and benefits of genetically modified foods: The mediating role of trust. *Risk Analysis: An International Journal*, 23(6), 1117-1133.
+
+National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and Replicability in Science. *Washington, DC: The National Academies Press*. https://doi.org/10.17226/25303
+
+---
+---
 
 
 
