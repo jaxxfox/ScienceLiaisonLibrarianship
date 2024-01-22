@@ -1,6 +1,6 @@
 ---
 title: “Introduction- Liaison Librarianship”
-Update: January 16, 2024
+Update: January 22, 2024
 layout: slides
 
 ---
@@ -397,10 +397,12 @@ Abrizah, A., Inuwa, S., & Afiqah-Izzati, N. (2016). Systematic Literature Review
 
 ---
 
+# Resources
+
+Talwar, M. (2014). Embedded Librarianship--New Horizon of Librarianship. *DESIDOC Journal of Library & Information Technology*, 34(6). 10.14429/djlit.34.6.8043
 
 
-
-
+---
 
 
 
