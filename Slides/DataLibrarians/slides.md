@@ -1,6 +1,6 @@
 ---
 title: “Data Librarians”
-Update: December 18, 2023
+Update: January 22, 2024
 layout: slides
 
 ---
@@ -227,6 +227,10 @@ Update the CORE
 
 
 ---
+
+# Resources
+
+Federer, L. (2018). Defining data librarianship: a survey of competencies, skills, and training. *Journal of the Medical Library Association: JMLA*, 106(3), 294. 10.5195/jmla.2018.306
 
 ---
 
