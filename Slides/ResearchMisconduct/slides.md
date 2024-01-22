@@ -1,6 +1,6 @@
 ---
 title: “Research Misconduct”
-Update: January 16, 2024
+Update: January 22, 2024
 layout: slides
 
 ---
@@ -234,6 +234,28 @@ Image credit: Left, Tumi from Pixabay; right, Evanelos Evangelou from Pixabay
 
 ---
 
+# Resources
 
+Campos-Varela, I., & Ruano-Raviña, A. (2019). Misconduct as the main cause for retraction. A descriptive study of retracted publications and their authors. *Gaceta sanitaria*, 33, 356-360. https://doi.org/10.1016/j.gaceta.2018.01.009
+
+Handling Misconduct - Reg SubPart A, 42 C.F.R. § 50 (1989). https://ori.hhs.gov/handling-misconduct-reg-subpart
+
+Mayer, T., & Steneck, N. H. (Eds.). (2011). *Promoting research integrity in a global environment*. World Scientific.
+
+National Center for Science and Engineering Statistics. (2017). *Higher Education Research and Development Survey Fiscal Year 2017*. National Science Foundation. Retrieved from https://ncsesdata.nsf.gov/herd/2017/.
+
+Public Health Service Policies on Research Misconduct, 42 C.F.R. § 50 (2005). https://ori.hhs.gov/sites/default/files/42_cfr_parts_50_and_93_2005.pdf
+
+Public Health Service Policies on Research Misconduct, 42 C.F.R. § 93 (2005). https://ori.hhs.gov/sites/default/files/42_cfr_parts_50_and_93_2005.pdf
+
+Steneck, N. H., & Bulger, R. E. (2007). The history, purpose, and future of instruction in the responsible conduct of research. *Academic Medicine*, 82(9), 829-834. 10.1097/ACM.0b013e31812f7d4d
+
+Wright, D.E., Titus, S.L. & Cornelison, J.B. Mentoring and Research Misconduct: An Analysis of Research Mentoring in Closed ORI Cases. *Sci Eng Ethics*, 14, 323–336 (2008). https://doi.org/10.1007/s11948-008-9074-5
+
+Wright, D. E., & Schneider, P. P. (2010). Training the Research Integrity Officers (RIO): The federally funded. *Journal of Research Administration*, 41(3), 99-117.
+
+---
+
+---
 
 
