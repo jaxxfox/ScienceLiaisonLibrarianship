@@ -1,6 +1,6 @@
 ---
 title: “Research Misconduct”
-Update: January 22, 2024
+Update: January 23, 2024
 layout: slides
 
 ---
@@ -18,7 +18,7 @@ layout: slides
 # What’s research misconduct?
 
 - Research misconduct is the leading cause of retracted publications (Campos-Varela, & Ruano-Raviña, 2019). 
-- Other research found that research misconduct is being significantly underreported, but unlike the broader distrust issues of science, research misconduct is addressed within the research enterprise (Titus et al., 2008).
+- Other research found that research misconduct is being significantly underreported, but unlike the broader distrust issues of science, research misconduct is addressed within the research enterprise (Wright et al., 2008).
 - A myriad of Federal Research Misconduct Policies exist to ensure mechanisms are created for investigations of most federally funded research (https://ori.hhs.gov/federal-policies). 
 - These current policies derive from 1989 regulations that every research institution receiving U.S. Public Health Service funding must assure to ORI that their institution has policies and procedures to investigate allegations of Misconduct in Research and this has expanded as a requirement for funding from many federal agencies (PHS: 42 CFR 50, 1989; HHS: 42 CFR 50 & 93, 2005).
 
