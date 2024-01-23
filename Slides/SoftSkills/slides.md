@@ -1,6 +1,6 @@
 ---
 title: “Soft Skills and Community”
-Update: October 6, 2023
+Update: January 23, 2024
 layout: slides
 
 ---
