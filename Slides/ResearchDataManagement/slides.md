@@ -444,12 +444,16 @@ Ideally, the DMP system used would:
 
 # Data Management Plan Scorecard
 
-Bradley Wade Bishop[^1], Judit Ungvari[^2],[^3], Hannah Gunderman[^4], Heather Moulaison-Sandy[^5]
+Bradley Wade Bishop[1], Judit Ungvari[2],[3], Hannah Gunderman[4], Heather Moulaison-Sandy[5]
 
-1: University of Tennessee, United States of America 
+1: University of Tennessee, United States of America
+
 2: Belmont Forum, Uruguay 
+
 3: Florida Museum of Natural History, United States of America
+
 4: Carnegie Mellon University, United States of America 
+
 5: University of Missouri, United States of America
 
 ---
