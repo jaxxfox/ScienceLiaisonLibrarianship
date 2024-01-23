@@ -1,6 +1,6 @@
 ---
 title: “Scholarly Communication”
-Update: October 2, 2023
+Update: January 23, 2024
 layout: slides
 
 ---
@@ -97,6 +97,8 @@ http://cluster.cis.drexel.edu/~cchen/citespace/
 ---
 
 ![Wade Bishop using Cite Space](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/WadeBishopusingCiteSpace.jpg?raw=true)
+
+Image credit: Wade Bishop using CiteSpace
 
 ---
 
