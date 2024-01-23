@@ -1,6 +1,6 @@
 ---
 title: “Research Data Management”
-Update: January 22, 2024
+Update: January 23, 2024
 layout: slides
 
 ---
@@ -194,7 +194,7 @@ Image by DataONE
 # Why Data Management Plans?
 
 - Presently, the Horizon 2020, EU research and innovation program, requires data from all publicly funded research be accessible to anyone, free of charge, in addition to ensuring Open Access to all peer-reviewed scientific publications relating to its results (Koumoulos, 2019).
-- Several academic journals now also require researchers to make public the data and digital outputs associated with a publication (The Royal Society, 2017; PLOS, n.d.).
+- Several academic journals now also require researchers to make public the data and digital outputs associated with a publication (The Royal Society, 2017; PLOS ONE, n.d.).
 - DMP use has been imposed onto the research community rather than through grassroot efforts of researchers'’ themselves.
 - However, research has shown that DMPs are uneven in terms of their quality, with the most missed elements being clear roles and responsibilities for data management, metadata standards for describing research data, and policies for protecting intellectual property rights (Samuel et al., 2015).
 
