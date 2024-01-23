@@ -22,7 +22,9 @@ layout: slides
 - What is one soft skill can improve on?
 - How do soft skills differ across cultures?
 
-![Image by Mohamed Hassan from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/problemsolvingImagebyfromPixabay.jpg?raw=true) ![Image by Mohamed Hassan from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/eqImagebyMohamedHassanfromPixabay.jpg?raw=true) ![Image by Gábor Adonyi from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/creativityimagebyG%C3%A1borAdonyifromPixabay.jpg?raw=true)
+![Vector art of two hands extended toward each other on a teal back ground. The hands include the sleeves of black suits, the skin tone is pale. The hand on the left has three question marks floating above it and the hand on the right has three lit lightbulbs floating above it.](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/problemsolvingImagebyfromPixabay.jpg?raw=true) ![Vector art of a hand extending from the bottom of the frame on a teal background. The hand is pale and has a sleeve of a black suit with white shirt. The hand is holding the center bar of white dumbell with the outline of a blue heart on one side and a blue brain on the other ](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/eqImagebyMohamedHassanfromPixabay.jpg?raw=true) ![Photo of a open blank notebook on a wooden table with colorful art supplies around the notebook](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/creativityimagebyG%C3%A1borAdonyifromPixabay.jpg?raw=true)
+
+Image credits: Left, Mohamed Hassan from Pixabay; center, Mohamed Hassan from Pixabay; right, Gábor Adonyi from Pixabay
 
 ---
 
