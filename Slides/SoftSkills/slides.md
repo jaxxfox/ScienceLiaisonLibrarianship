@@ -121,7 +121,9 @@ Image credits: Left, Mohamed Hassan from Pixabay; center, Mohamed Hassan from Pi
 - Qualitative comments indicated students lacked self-awareness, in particular the ability to identify strengths and weaknesses.
 - What can UT, CCI, SIS, do to address this perceived/actual lack of soft skills?
 
-![Image by StockSnap](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/teamworkImagebyStockSnapfromPixabay.jpg?raw=true) ![Image by Mohamed Hassan](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/communicationImagebyMohamedHassanfromPixabay.jpg?raw=true)
+![Photo of five people are sitting very casually around a table in a way that you can't see any of their faces. There are papers on the table in the center with other office supplies and the body lanuage of the people indicate discussion and collaboration.](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/teamworkImagebyStockSnapfromPixabay.jpg?raw=true) ![Vector art of three seemingly white people on a teal background. The people are dressed in business clothes and seem to be in discussion but do not have faces as part of the art style.](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/communicationImagebyMohamedHassanfromPixabay.jpg?raw=true)
+
+Image credit: left, StockSnap by Pixabay; right, Mohamed Hassan by Pixabay
 
 ---
 
