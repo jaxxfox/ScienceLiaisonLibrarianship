@@ -33,7 +33,7 @@ Image Credits: Left, Tumisu from Pixabay; Right, CHÂUVIỄN from Pixabay
 - Participant Observer
 - Taking notes, understanding actors
 
-! [A photograph taken in an urban street setting with a camera on a tripod in the foreground, the screen displaying the scene in front of it which is a stylish Black woman in sunglasses being interviewed by a journalist who is out of frame and blocked by the camera, represented only by a hand holding some kind of recording device](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewImagebyPexelsfromPixabay.jpg?raw=true) ![A photo of a city in Japan with crowds of people crossing the street in a series of crosswalks in front of a background of tall, mirrored buildings and lit of billboards](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/crowdImagebySofiaTerzonifromPixabay.jpg?raw=true)
+![A photograph taken in an urban street setting with a camera on a tripod in the foreground, the screen displaying the scene in front of it which is a stylish Black woman in sunglasses being interviewed by a journalist who is out of frame and blocked by the camera, represented only by a hand holding some kind of recording device](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewImagebyPexelsfromPixabay.jpg?raw=true) ![A photo of a city in Japan with crowds of people crossing the street in a series of crosswalks in front of a background of tall, mirrored buildings and lit of billboards](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/crowdImagebySofiaTerzonifromPixabay.jpg?raw=true)
 
 Image Credits: Left, Pexels from Pixabay; Right, Sofia Terzoni from Pixabay
 
