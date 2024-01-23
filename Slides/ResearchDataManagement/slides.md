@@ -461,7 +461,7 @@ Bradley Wade Bishop[1], Judit Ungvari[2],[3], Hannah Gunderman[4], Heather Moula
 # DMPs Rubrics: Prior Work
 
 - Despite their importance to the research enterprise, no method currently exists to evaluate DMPs (i.e., determining the value of the DMPs and allowing for across-the-board comparison). 
-- Prior work to assess DMPs has been rubrics limited in overall usability, e.g. the Document Assessment and Review Tool (DART) project, which made a rubric to assess NSF DMPs; its exhaustive list of elements to assess and the amount of time the rubric took to use were impediments to adoption (Roland et al., 2015). 
+- Prior work to assess DMPs has been rubrics limited in overall usability, e.g. the Document Assessment and Review Tool (DART) project, which made a rubric to assess NSF DMPs; its exhaustive list of elements to assess and the amount of time the rubric took to use were impediments to adoption (Rolando, 2015). 
   * Other rubrics have been developed (e.g., Poole & Garwood, 2020; Van Loon et al., 2017), but included all elements as binary. 
   * Prior rubrics focused on completeness of DMPs and were not intended to evaluate quality (Carlson, 2017).
 
