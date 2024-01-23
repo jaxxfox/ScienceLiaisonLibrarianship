@@ -1,6 +1,6 @@
 ---
 title: “Ethnography”
-Update: December 18, 2023
+Update: January 23, 2024
 layout: slides
 
 ---
@@ -20,7 +20,7 @@ layout: slides
 - What wasn’t?
 - Any funny stories?
 
-![Tumisu from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewclipartImagebyTumisufromPixabay.png?raw=true) ![CHÂUVIỄN from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/talkingamongbooksImagebyCH%C3%82UVI%E1%BB%84NfromPixabay.jpg?raw=true) 
+![Clipart of a very simple representational shapes of two people, sitting, facing each other](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewclipartImagebyTumisufromPixabay.png?raw=true) ![Candid photograph of an Asian woman speaking to an Asian man in a conversational, casual stance in a small space packed floor to ceiling with books on shelves](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/talkingamongbooksImagebyCH%C3%82UVI%E1%BB%84NfromPixabay.jpg?raw=true) 
 
 Image Credits: Left, Tumisu from Pixabay; Right, CHÂUVIỄN from Pixabay
 
@@ -33,7 +33,7 @@ Image Credits: Left, Tumisu from Pixabay; Right, CHÂUVIỄN from Pixabay
 - Participant Observer
 - Taking notes, understanding actors
 
-![Pexels from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewImagebyPexelsfromPixabay.jpg?raw=true) ![Sofia Terzoni from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/crowdImagebySofiaTerzonifromPixabay.jpg?raw=true)
+! [A photograph taken in an urban street setting with a camera on a tripod in the foreground, the screen displaying the scene in front of it which is a stylish Black woman in sunglasses being interviewed by a journalist who is out of frame and blocked by the camera, represented only by a hand holding some kind of recording device](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/interviewImagebyPexelsfromPixabay.jpg?raw=true) ![A photo of a city in Japan with crowds of people crossing the street in a series of crosswalks in front of a background of tall, mirrored buildings and lit of billboards](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/crowdImagebySofiaTerzonifromPixabay.jpg?raw=true)
 
 Image Credits: Left, Pexels from Pixabay; Right, Sofia Terzoni from Pixabay
 
@@ -64,7 +64,7 @@ Image Credits: Left, Pexels from Pixabay; Right, Sofia Terzoni from Pixabay
 - Group (in-group; out-group): own terms, customs
 - Community: apart or part
 
-![Amir Arabshahi from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/IndividualincrowdImagebyAmirArabshahifromPixabay.jpg?raw=true) ![Mircea All in collections from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/prideImagebyMirceaAllincollectionsfromPixabay.jpg?raw=true)
+![Black and white photo of a crowd of men in a large mosque. One man is in focus, kneeling upright. All the other men are blurred as if in motion and kneeling with their faces down in prayer](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/IndividualincrowdImagebyAmirArabshahifromPixabay.jpg?raw=true) ![A candid photo of a few smiling and cheering young people with varying gender presentations cheering on a gay pride parade. Two are holding a rainbow banner and several small Pride flags representing lesbian, intersex, transgender Pride colors can be seen as well as rainbow flags.](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/prideImagebyMirceaAllincollectionsfromPixabay.jpg?raw=true)
 
 Image Credits: Left, Amir Arabshahi from Pixabay; Right, Mircea All in collections from Pixabay
 
