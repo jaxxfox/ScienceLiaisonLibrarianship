@@ -1,6 +1,6 @@
 ---
 title: “Introduction- Liaison Librarianship”
-Update: January 22, 2024
+Update: January 23, 2024
 layout: slides
 
 ---
