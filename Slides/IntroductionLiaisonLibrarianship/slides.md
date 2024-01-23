@@ -168,7 +168,9 @@ González-Alcaide, G., & Poveda-Pastor, I. (2018). Emerging roles in Library and
   * What is science? (Next class meeting)
 - The first is what we are dealing with now
 
-![Image by Ivan Pais from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/informationImagebyIvanPaisfromPixabay.jpg?raw=true) ![Image by Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/sciencemeans2ImagebyGerdAltmannfromPixabay.jpg?raw=true)
+![Photo of books and papers arranged around a dark point, making it look like they're creating a spiraling vortex of paper](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/informationImagebyIvanPaisfromPixabay.jpg?raw=true) ![3D computer generated imaging of DNA helixes, ghostly light blue on a dark blue background](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/sciencemeans2ImagebyGerdAltmannfromPixabay.jpg?raw=true)
+
+Image Credit: left, Ivan Pais from Pixabay; right, Gerd Altmann from Pixabay.
 
 ---
 
@@ -360,7 +362,9 @@ Abrizah, A., Inuwa, S., & Afiqah-Izzati, N. (2016). Systematic Literature Review
 
 ---
 
-![Image by Jaxx Fox](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/PeerReviewProcess.png?raw=true)
+![Diagram that explains the peer review process](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/PeerReviewProcess.png?raw=true)
+
+Image by Jaxx Fox
 
 ---
 
@@ -385,7 +389,9 @@ Abrizah, A., Inuwa, S., & Afiqah-Izzati, N. (2016). Systematic Literature Review
 - Interview with a Librarian
 - Summary of a Community short paper and presentation
 
-![Image by Tumisu from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/InterviewImagebyTumisufromPixabay.jpg?raw=true) ![Image by Gerd Altmann from Pixabay](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/CommunityImagebyGerdAltmannfromPixabay.jpg?raw=true)
+![Photo of a disembodied arm holding a gold tone microphone](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/InterviewImagebyTumisufromPixabay.jpg?raw=true) ![Image of dozens of color and black and white portraits of people's faces cropped into small images arranged in a long rectangle](https://github.com/jaxxfox/ScienceLiaisonLibrarianship/blob/main/Slides/Images/CommunityImagebyGerdAltmannfromPixabay.jpg?raw=true)
+
+Image Credit: left, Tumisu from Pixabay; right, Gerd Altmann from Pixabay.
 
 ---
 
